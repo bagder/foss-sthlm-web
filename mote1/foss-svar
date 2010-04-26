@@ -1,0 +1,185 @@
+1B 2B 34 4A 5A 6CDE 7E 8D 9AD
+1A 2A 36 4AB 5ABCD 6ABC 7B 8C 9ABCD
+1A 2A 36 4AB 5AC 6BC 7C 8A 9ACD
+1A 2B 32 4AB 5ACD 6ABCD 7B 8C 9A
+1A 2A 34 4BC 5ACD 6BCD 7C 8C 9D
+1A 2A 36 4AB 5ABCD 6BCD 7C 8C 9ACD
+1A 2A 34 4 5ACD 6CDE 7E 8C 9A
+1A 2A 36 4AB 5ACD 6CDE 7B 8C 9AD
+1A 2A 33 4AB 5A 6CDE 7A 8D 9D
+1A 2A 34 4AB 5AC 6CDE 7ABCD 8D 9A
+1A 2A 32 4AB 5ACD 6BCD 7B 8D 9A
+1A 2B 32 4AB 5AD 6C 7B 8B* 9D *open source sweden
+1A 2B 36 4AB 5AC 6CD 7B 8D 9ABC
+1A 2A 34 4AB 5ACD 6CD 7A 8C 9AC
+1A 2A 35 4AB 5A 6DE 7D 8D 9A
+1B 2A 36 4AB 5ABCD 6CDE 7B 8A 9A
+1B 2A 34 4AB 5ABCD 6ABCD 7A 8C 9AD
+1B 2B 34 4AB 5AD 6CDE 7D 8C 9A
+1B 2B 36 4AB 5C 6C 7B 8A 9D
+1A 2B 34 4AB 5ACD 6CD 7C 8C 9ABCD
+1B 2A 34 4AB 5A 6CD 7A 8D 9A
+1B 2A 34 4AB 5ACD 6CD 7C 8D 9A
+1A 2A 32 4AB 5A 6CD 7C 8C 9D
+1A 2A 36 4A 5ACD 6C 7B 8C 9D
+1B 2B 3? 4AB 5A 6C 7C 8D 9A
+1A 2B 33 4A 5A 6D 7C 8C 9D
+1B 2A 32 4AB 5AD 6CDE 7E 8C 9D
+1B 2B 36 4AB 5AD 6C 7B 8A 9AB
+1A 2A 312 4AB 5A 6C 7C 8C 9A
+1A 2B 34 4AB 5AD 6CD 7B 8D 9D
+1A 2A 34 4AB 5A 6ABC 7B 8C 9A
+1C 2A 34 4 5AC 6BC 7A 8C 9D
+1A 2B 3? 4AB 5ABCD 6CD 7B 8D 9ABCD
+1C 2B 34 4AB 5ACD 6BCD 7C 8D 9A
+1B 2B 33 4AB 5ACD 6CD 7B 8C 9AC
+1B 2A 34 4AB 5ABC 6ABCD 7A 8A 9A
+1A 2A 33 4AB 5A 6C 7- 8A 9AC
+1B 2B 312 4AB 5A 6BCD 7B 8D 9ACD
+1B 2A 36 4AB 5A 6C 7B 8C 9D
+1A 2B 36 4AB 5AC 6CD 7C 8D 9D
+1A 2A 312 4AB 5AD 6CDE 7E 8A 9AD
+1B 2B 3? 4A 5? 6? 7E 8D 9ABC 
+1A 2B 32 4B 5BCD 6ABC 7E 8C 9ACD
+1A 2B 34 4AB 5AD 6CD 7A 8D 9A
+1A 2B 34 4AB 5AD 6BC 7E 8D 9A
+1B 2B 36 4AB 5AC 6CDE 7A 8D 9D
+1A 2A 33 4AB 5AB 6ABC 7B 8C 9ACD
+1B 2B 36 4AB 5A 6C 7E 8D 9D
+1A 2A 36 4AB 5ACD 6CD 7B 8A 9A
+1B 2A 34 4AB 5AC 6CDE 7C 8C 9AB
+1A 2A 33 4B 5A 6D 7B 8D 9A
+1A 2A 36 4A 5ABCD 6ABCDE 7E 8D 9A
+1B 2A 33 4 5A 6C 7B 8D 9D
+1A 2A 36 4AB 5ABC 6CD 7B 8C 9D
+1B 2C 34 4AB 5AB 6ABCD 7B 8D 9A
+1A 2A 34 4AB 5AD 6C 7C 8A 9A
+1A 2B 36 4AB 5ABCD 6ABCD 7A 8D 9D
+1A 2A 34 4AB 5A 6BCD 7C 8D 9AD
+1A 2A 34 4AB 5ACD 6BCD 7B 8C 9ACD
+1B 2A 33 4A 5A 6C 7B 8C 9D
+1A 2A 34 4A 5AD 6BC 7E 8C 9D
+1B 2C 33 4AB 5A 6CD 7C 8D 9AB
+1B 2A 312 4AB 5A 6D 7A 8D 9D
+1A 2A 3? 4AB 5AD 6CD 7B 8D 9A
+1A 2A 32 4A 5AC 6CD 7CD 8CD 9A
+1B 2A 34 4A 5C 6C 7D 8A 9AD
+1B 2B 36 4AB 5ACD 6CD 7C 8C 9AD
+1B 2A 312 4AB 5AC 6CD 7E 8A 9D
+1B 2B 33 4B 5AC 6CDE 7D 8C 9AC
+1A 2A 312 4AB 5AC 6C 7C 8C 9D
+1B 2C 33 4 5AC 6CD 7D 8A 9AC
+1B 2A 312 4AB 5A 6DE 7A 8D 9A
+1B 2A 33 4AB 5AB 6DE 7D 8A 9AD
+1C 2B 34 4 5AC 6CD 7E 8D 9A
+1B 2B 34 4AB 5A 6D 7B 8D 9AB
+1A 2A 32 4AB 5ACD 6B 7A 8 D 9AD
+1B 2A 312 4A 5ABCD 6BCD 7CD 8C 9A
+1A 2B 34 4B 5AB 6BCD 7A 8C 9ABC
+1A 2B 31 4AB 5AC 6C 7C 8C 9ABCD
+1C 2B 36 4AB 5ABCD 6CDE 7B 8C 9ABCD
+1C 2A 34 4AB 5ACD 6ABCD 7A 8C 9AC
+1A 2A 34 4 5AC 6D 7B 8D 9A
+1A 2C 36 4AB 5A 6C 7B 8C 9D
+1A 2B 34 4AB 5AD 6CD 7E 8E 9ABCD
+1B 2C 33 4B 5ABC 6ABC 7E 8D 9A
+1A 2A 312 4AB 5ABD 6CD 7E 8D 9AD
+1A 2A 34 4AB 5ACD 6CDE 7E 8A 9ACD
+1A 2B 34 4AB 5AC 6DE 7AD 8B* 9A svenska linux
+1A 2A 34 4AB 5ABCD 6ABCD 7C 8C 9A
+1B 2A 3? 4AB 5AD 6CD 7C 8E 9D
+1B 3A 34 4AB 5ACD 6ABCD 7C 8C 9A
+1A 2A 33 4AB 5AD 6C 7C 8C 9D
+1B 2A 34 4AB 5A 6BC 7C 8C 9D
+1B 2A 312 4AB 5AD 6ABC 7E 8A 9A
+1A 2B 34 4A 5A 6CD 7C 8D 9D
+1A 2B 36 4AB 5ACD 6CD 7C 8D 9AB
+1B 2A 34 4AB 5ABCD 6CDE 7D 8A 9AD
+1B 2A 3? 4AB 5ABC 6CE 7D 8D 9AD
+1A 2B 3? 4 5ABCD 6BCD 7B 8D 9ACD
+1C 2A 36 4AB 5ABC 6CDE 7B 8D 9ABCD
+1B 2A 32 4AB 5AD 6ABCD 7B 8C 9ABD
+1A 2A 33 4 5AD 6C 7C 8D 9ABCD
+1A 2A 36 4AB 5A 6C 7B 8D 9D
+1C 2B 312 4AB 5AD 6CDE 7CD 8D 9AC
+1A 2A 33 4AB 5A 6CD 7B 8C 9D
+1A 2B 33 4AB 5A 6D 7E 8D 9A
+
+-----------
+Betyg:
+
+g-PostgreSQL 3 4 5 4 4 3 4 4 4 4 3 4 3 5 4
+i-PostgreSQL 2 4 5 4 4 2 4 3 3 3 3 3 4 5 4
+g-OSS 3 4 3 3 3 3 3 4 5 2
+i-OSS 4 2 4 3 2 2 2 5 4 2
+g-Upstart 2 3 2 3 3 2 4 2 3 3 3 4 3 5 3
+i-Upstart 3 5 3 3 3 3 5 3 4 4 4 5 5 5 4
+g-Rockbox 4 4 4 5 4 5 5 4 2 5 4 5 4 5 4 5 5
+i-Rockbox 3 5 4 4 3 5 2 5 2 3 4 4 4 5 4 4 4
+g-Debian 4 2 5 3 4 3 3 3 4 3 3 2 5 5 5 3
+i-Debian 3 3 5 4 5 3 3 3 3 2 3 4 5 5 5 3
+g-curl 4 5 3 5 3
+i-curl 4 4 4 5 3
+
+g-OSS 4 3 3 3 3 4 3 3 3 3 4 4 3 4 3 3 4 1 3 3 4 2 3 4 3 3 2 4 4 4 4 3 3 3 5 2 4
+i-OSS 4 5 1 2 4 3 2 2 2 2 3 4 5 4 2 3 4 5 4 4 2 4 3 5 4 2 2 5 3 5 4 3 4 5 4 2 4
+g-OSS 3 3 3 2 3 3 4 3 5 3 4 1 2 3 4 5 5 5 4 3 4 3 3 2 4 4 4 4 4 4 3 4 3 3 4 4 4
+i-OSS 3 3 4 4 4 4 2 3 5 5 3 3 2 5 3 5 4 5 3 3 3 3 2 2 2 5 4 4 3 5 3 3 3 3 3 3 2
+g-Upstart 4 5 4 4 2 2 4 4 2 2 2 3 4 1 4 2 5 4 2 2 4 3 3 2 2 4 2 3 4 4 3 3 4 2 3
+i-Upstart 5 5 3 4 4 2 3 4 4 4 3 4 4 3 4 2 5 3 4 3 5 2 1 3 2 3 3 4 5 4 5 2 4 4 4
+g-Upstart 3 3 3 2 3 3 4 2 4 5 3 4 3 4 3 4 5 3 4 3 3 2 3 4 3 3 3 4 3 3 3 3 3 5 3
+i-Upstart 3 3 4 4 3 4 5 4 4 5 3 3 4 5 5 5 5 4 5 3 4 3 4 4 4 5 5 3 3 4 5 4 4 5 2
+g-PostgreSQL 4 4 3 4 3 4 4 3 3 4 3 4 4 5 5 4 5 4 5 5 3 4 5 4 2 5 4 3 5 5 4 4 3
+i-PostgreSQL 4 4 1 4 3 5 3 5 4 4 5 4 4 3 5 4 5 4 3 3 5 3 2 4 2 4 3 1 3 5 4 3 2
+g-PostgreSQL 4 4 4 3 5 5 4 5 5 5 5 5 5 4 3 5 5 5 4 4 4 4 4 4 4 5 5 4 4 3 4 3 4 4
+i-PostgreSQL 3 4 3 3 4 5 4 5 5 5 5 5 5 4 3 5 2 5 3 4 3 4 5 3 3 3 5 4 3 4 3 4 4 4
+g-Rockbox 5 4 4 4 4 4 5 4 5 5 5 5 5 5 5 5 5 4 3 5 5 5 3 5 5 4 5 4 4 5 5 5 4 4 5
+i-Rockbox 4 4 5 5 5 4 5 4 5 5 5 4 3 4 5 5 4 2 3 5 5 5 4 4 3 5 5 4 5 4 5 5 4 4 5
+g-Rockbox 5 5 5 5 4 4 4 4 4 4 4 4 5 4 4 3 5 4 5 4 5 5 5 5 5 4 4 5 5 4 4 5 5 5 5
+i-Rockbox 5 5 5 4 3 5 5 4 4 4 5 4 4 4 4 4 5 4 5 3 5 4 5 4 5 4 4 4 5 5 3 5 4 5 5
+g-Debian 5 3 3 2 4 2 3 4 5 3 4 4 4 4 3 3 4 5 4 5 3 5 4 4 3 3 2 4 4 4 4 4 5 5 3
+i-Debian 4 4 5 4 5 3 3 3 5 4 4 5 5 4 4 5 4 5 4 3 4 5 4 5 1 1 5 5 5 4 3 4 5 5 2
+g-Debian 3 4 4 3 4 5 3 5 5 4 4 4 5 5 5 3 3 4 4 4 3 4 4 3 4 4 5 5 4 5 4 5 3 5
+i-Debian 3 5 5 4 5 4 5 5 5 5 5 5 5 5 5 4 5 4 3 4 4 4 4 3 3 5 5 4 4 5 5 5 3 5
+g-curl 4 5 4 5 5 4 5 3 4 5 5 5 5 4 5 4 3 4 4 4 5 5 5 5 4 5 5 5 5 5 2 4 3 5 4 4
+i-curl 4 5 5 5 5 5 5 5 4 5 5 5 5 3 5 4 4 4 4 3 4 5 5 3 5 5 5 5 4 5 3 3 3 3 5 4
+g-curl 4 4 4 3 4 4 3 4 5 5 4 5 5 4 5 4 5 5 4 5 5 4 5 5 4 3 3 5 5 5 4 4 5 4 4 4
+i-curl 4 4 4 3 4 4 2 5 5 3 3 5 5 4 5 2 5 5 5 4 5 5 5 5 2 4 4 4 4 5 3 4 4 5 3 4
+
+----
+Fritt
+
+ - servett
+ - announce mailinglista
+ - tema kan funka som träff-grej
+ - bra * 2
+ - paus * 3
+ - mer tid för demos
+ - mackor inte nödvändigt
+ - bättre skyltning så att man hittar lokalen * 2
+ - kul initiativ
+ - längre snack (om postgres)
+ - tack
+ - "jag vill inte ändra något. jag vill bara ha mer"
+ - nybörjarvänligare
+ - kaffe saknas
+
+ - fri mjukvara i mobiler
+ - säkerhet
+ - fördelar för företag att använda foss
+ - politik - microsoft, DRM, patent
+ - blåtand
+ - intresserad av versionshantering
+ - licensfrågor
+ - regulatoriska frågor/lagkrav
+ - LOU och foss
+ - hur får man sitt företag att använda foss och ge tillbaka?
+ - mer embedded, korskompilering, arm, mips * 2
+ - bra med ett metaföredrag men inte mer
+ - "en samling korta föredrag om programdesign i olika foss-projekt"
+ - web
+ - dynamiska språk
+ - ersättningsapplikatioenr för slutna desktopsapplikationer
+ - "detta var mitt problem, så här löste jag det"
+ - foss-metodik: make, ant, maven, trac, hudson, git, hg
+ - egna erfarenheter från egna projekt

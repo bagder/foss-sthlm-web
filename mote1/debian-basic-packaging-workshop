@@ -1,0 +1,339 @@
+ Title: Debian Basic Packaging Workshop
+ Author: Per Andersson <avtobiff@gmail.com>
+ Given at: FOSS-STHLM, February 2010
+           FSCONS, 2009
+
+ Copyright © 2009, 2010 Per Andersson
+
+   This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+BASIC DEBIAN PACKAGING
+----------------------
+This document will very quickly guide a quick but basic Debian package creation
+from an upstream tar ball.
+
+It is very good to have http://www.debian.org/doc/maint-guide/ beside you when
+going through this document.
+
+
+CONTENTS
+--------
+Obtaining software
+Recommended software for packaging
+Initial Debianization
+Tuning package
+Building
+Verifying package integrity and standards
+Installing
+Extending to multi binary package
+Summary
+Where to go from here
+
+
+
+OBTAINING SOFTWARE
+------------------
+Download upstream source tar ball at
+
+    http://sigsucc.se/talks/debian-basic-packaging-workshop/hello-0.2.1.tar.gz
+
+Unarchive it
+
+    tar zxvf hello-0.2.1.tar.gz
+
+Try it out
+
+    make
+    bin/hello
+    bin/hithere
+
+It is easier to build the package with some software...
+
+
+RECOMMENDED SOFTWARE FOR PACKAGING
+----------------------------------
+For those with Debian (or a Debian based distro)
+
+    aptitude install build-essential debhelper dh-make fakeroot devscripts
+
+It's time to... DEBIANIZE!!
+
+
+INITIAL DEBIANIZATION
+---------------------
+Use debhelper to get some help with template files and such, but first extract
+the package
+
+    tar zxvf hello-0.2.1.tar.gz
+    mv hello hello-0.2.1           # necessary for dh_make
+    cd hello-0.2.1
+    DEBFULLNAME="<yourname>" dh_make --file ../hello-0.2.1.tar.gz \
+                                     --email <youremail> \
+                                     --single --copyright gpl3
+
+NB! If you cannot run dh_make with --copyright gpl3 it is because the version
+is to old. Either update dh_make or use gpl instead.
+
+You should now have a debian dir in the source directory, this contains
+template/skeleton files for you to edit.
+
+
+TUNING PACKAGE
+--------------
+Remove the non-essential files in debian dir
+
+    cd debian
+    rm *ex *EX
+
+for now, just keep
+
+    debian/copyright
+    debian/control
+    debian/changelog
+    debian/compat
+    debian/rules
+    debian/source/format
+
+Leave debian/compat as it is, it shows what version of debhelper is needed to
+build your package.
+
+Edit debian/copyright and put into it the correct copyright.
+
+Edit debian/control to say something like
+
+    Source: hello
+    Section: utils
+    Priority: extra
+    Maintainer: Per Andersson <avtobiff@gmail.com>
+    Build-Depends: debhelper (>= 7)
+    Standards-Version: 3.8.4
+
+    Package: hello
+    Architecture: any
+    Depends: ${shlibs:Depends}, ${misc:Depends}
+    Description: Greets you upon execution
+     A very simple package which prints a formal greeting when
+     you execute it.
+
+The first section is the source package information. You can see the
+Build-Depends field here, that should include all packages we depend on to
+build this package. Since our package consist of only C programs, we do not need
+to depend on C compilers and libs (they are assumed to be present, and probably
+always are).
+
+The second section describes the binary package. For instance dependencies to
+run the package (again, basic C runtime libraries are always present on Debian),
+architecture on which the package runs, and short and long descriptions.
+
+For an more in-depth explanation of the Control file check the Debian Policy
+Chapter 5 (http://debian.org/doc/debian-policy/ch-controlfields.html).
+
+
+Now add two files to the debian directory: dirs and install. In debian/dirs put
+
+    usr/bin
+
+The directories in debian/dirs are created (if they don't exist) when the
+package is installed. This is because you cannot count on directories to exist
+on the system you are installing onto.
+
+In debian/install put
+
+    bin/hello       usr/bin
+
+This will install the file bin/hello to /usr/bin/hello when the package is
+installed. This is the standard placement for binaries, installed by optional
+packages.
+
+Have a quick look at the debian/rules file. The debian/rules file is always a
+file of the make(1) format. The file that dh_make made for us contains a lot of
+default lines, for this example we can get away with using debhelper straight
+forward.
+
+Replace the entire contents of the dh_make example debian/rules file with just
+
+NB! Since tabs have semantic meaning in make(1) it is essential to have a tab
+on the second line, before dh, below.
+
+#!/usr/bin/make -f
+%:
+	dh $@
+
+This will run dh on every stage of the package building process, and use sane
+default values.
+
+NB! The debian/rules file could contain just about any rule to build the package,
+previously it did. With debhelper and alike this has become much simpler.
+
+Finally, update the changelog. Go to the source dir and invoke
+
+    dch
+
+edit and save.
+
+You have now Debianized a package and are ready to build it!
+
+
+BUILDING
+--------
+When package is configured and tuned we can build it. Go to the top level
+source directory and invoke
+
+    dpkg-buildpackage -rfakeroot -us -uc
+
+This will build the package, using fakeroot for root elevation needed for the
+build process, not signing the source package nor the .changes file. (All
+packages in Debian are signed, search for Secure APT for more info. If you have
+a GPG key and want to sign your package omit -us -uc.)
+
+It is very convenient to invoke
+
+    debc
+
+in the source directory after you built a package. This will give a short
+summary of your package.
+
+Anyway, you should have a deb in the same directory as the hello-0.2.1.tar.gz.
+
+
+VERIFYING PACKAGE INTEGRITY AND STANDARD
+----------------------------------------
+For a package to be included in Debian it needs to hold a high standard. This
+is defined in the Debian Policy Manual. If the package does not follow policy
+Sponsors will probably not upload it for you. Existing packages might be
+removed if it breaks policy in a severe way.
+
+To verify that the package follows the Debian Policy Manual we run lintian
+
+    lintian package  # deb
+    lintian changes  # .changes file
+    lintian dsc      # .dsc file
+
+If lintian complains, fix it!! Hey, let's skip the fixing and continue. :-)
+
+You now have a package which would normally be uploaded with dput or dupload
+to the Debian infrastructure somewhere (depending on your developer status
+etc).
+
+Let's try installing the package.
+
+
+INSTALLING
+----------
+Now, install and try out the package
+
+    hello   # does not exist yet
+    dpkg -i hello_0.2.1-1.1_amd64.deb   # replace amd64 with your arch
+    hello   # now prints Hello!!
+
+It is possible to remove the package with APT
+
+    apt-get remove hello    # or use
+    #aptitude remove hello  # or purge the package
+    #aptitude purge hello
+
+Bam, the package is gone!
+
+
+EXTENDING TO MULTI BINARY PACKAGE
+---------------------------------
+Remember that the package have two source files, these actually end up as two
+different binaries in the bin/ directory. Let's include them in our package.
+This is quite easy. We will do three, maybe four, things: Add another binary
+package description in debian/control, move debian/{dirs,install}, add new dirs
+and install files.
+
+First, edit debian/control and add a section saying
+
+    Package: hithere
+    Architecture: any
+    Depends: ${shlipbs:Depends, ${misc:Depends}
+    Description: Greets you informally upon execution
+     A very simple package which prints an informal greeting
+     when you execute it.
+
+Second, move the current dirs and install files and prepend them with the
+binary package name
+
+    mv dirs hello.dirs
+    mv install hello.install
+
+Third, now create new, yes!, you guessed it, hithere.dirs and hithere.install.
+Let debian/hithere.dirs say
+
+    usr/bin
+
+Let debian/hithere.install say
+
+    bin/hithere     usr/bin
+
+Hey! It was only three things.
+
+Well, let's update the changelog and say that we included hithere.
+
+    dch -i
+
+The flag -i increases the Debian revision of the package.
+
+Now, rebuild the package and you should have two debs: hello and hithere.
+Try installing, using, and removing them both.
+
+
+SUMMARY
+-------
+CONGRATULATIONS!! You have now Debianized some software with debhelper, run
+automatic policy verification tools, installed and removed the package, and
+finally updated the (source) package by extending it with another binary
+(package).
+
+Feel content!!
+
+This workshop is of course only a crash course with seat belts fastened. There
+are more to Debian packaging that this, most of it more fun! Check out the next
+sections to see where you can go from here.
+
+
+WHERE TO GO FROM HERE
+---------------------
+Maintaining a package involves among other things
++ Debian Bug Tracking System (BTS).  http://bugs.debian.org
++ Debian Package Tracking System (PTS).  http://packages.qa.debian.org
+
+What didn't we do, that might be of interest?
++ Uploading packages (dput, dupload)
++ Updated software (uupdate)
++ Tracking patches (quilt, dpatch)
++ Used VCS for packaging (git, hg, svn, cvs, ...)
++ Configured the package automatically with debconf (if configuration is
+  needed, this might be really neat)
++ Tested that the package is (un)installable when upgrading (piuparts)
++ Clean chroot building a package, also building for other release (Lenny,
+  Squeeze, Jaunty, Karmic) (pbuilder, cowbuilder)
+
+How to help out:
++ Use Debian, report bugs
++ Fix bugs, send in patches etc
++ Adopt orphaned packages
++ Package new software for Debian
++ Translate
++ Spread the word of Debian, so we can reach WORLD DOMINATION
++ Becoming a Debian Developer...
++ ...by entering the New Maintainer process
+
+References which I have used, check them out:
++ Debian New Maintainer's Guide
++ Debian Policy Manual
++ Debian Developer's Reference
++ http://people.debian.org/~danchev/talks/rug/gkd/s5/s5.html
