@@ -7,25 +7,42 @@ HEAD(foss-sthlm - Anmälan till evenemang)
 
 TITLE(Anmälan till evenemang)
 BOXTOP
+#if 0
 <p>
- För att anmäla dig till <a href="mote2.html">möte #2</a> gör såhär:
+
+ För att anmäla dig till <a href="mote5.html">möte #5</a> gör såhär:
 
 <p>
  Skriv ett mail som innehåller följande information:
 <ol>
-<li> Ditt namn
-<li> Information om ifall du vill hänga med på puben efteråt och mingla, dricka en öl och snacka open source
-<li> ev önskemål på mat (typ allergier, vegetarian etc)
+<li> Ditt namn och email-adress
+
+<li> Speciella krav på mat, typ allergier eller vegan etc. 
+
+<li> Information om ifall du vill hänga med på puben efteråt och
+mingla, dricka en öl och snacka open source
+
 </ol>
 
 <p>
- Skicka mailet till <a
-href="mailto:foss-sthlm-mote2@haxx.se">foss-sthlm-mote2@haxx.se</a>
+ Skicka mailet till
+ <a href="mailto:foss-sthlm-mote5@haxx.se">foss-sthlm-mote5@haxx.se</a>, skriv
+gärna "foss-sthlm anmälan" eller något sånt i subject.
+
 
 <p>
- <i>Samtliga</i> anmälningar kommer att bekräftas av Daniel, så ifall
-du efter flera dagar inte fått någon bekräftelse, var god kontakta
-Daniel igen och kolla upp vad som hänt.
+ <i>Samtliga</i> anmälningar kommer att bekräftas, så ifall du efter
+flera dagar inte fått någon bekräftelse, var god kontakta oss igen
+och kolla upp vad som hänt.
+
+<p>
+ <b>OBS!</b> eftersom antalet platser är begränsade så ber vi er
+allra ödmjukast att <i>avanmäla er</i> ifall ni anmält er och sedan
+kommer på att ni inte kan komma av någon anledning. Maila samma adress
+för det.
+#else
+ <b>Vi tar just nu inte emot anmälningar till evenemang!</b>
+#endif
 
 BOXBOT
 

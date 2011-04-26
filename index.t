@@ -1,4 +1,4 @@
-#include "doctype.t"
+<include "doctype.t"
 #include "setup.t"
 HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "body.t"
@@ -6,7 +6,19 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-BOXTOP
+#if 0
+<div class="upcoming">
+<b>Nästa evenemang:</b><p>
+
+Tisdag 24:e februari, en kv&auml;ll med seminarer - gratis, följt av vidare foss-snack på en
+pub i närheten. Vi kallar det <a href="mote6.html">möte #6</a>.
+
+</div>
+#endif
+
+
+<div class="frontbox">
+SUBTITLE(foss-sthlm)
 
 <p> Vi är folk intresserade av FOSS i Stockholms-området. En del bara
  som hobby, men många av oss även professionellt.  "FOSS" står
@@ -16,7 +28,7 @@ Open Source Software</a>. Ibland även kallat FLOSS.
 
 <p> Vi jobbar på fler träffar med gelikar bland Free Software- och Open
 Source-folk i det här området. Användare javisst, men gärna
-utvecklare och hackers också. Entusiaster. Doers. Hackers.
+utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. För oss!</i>
 
 <p>
  Vår <a
@@ -24,21 +36,21 @@ href="http://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">mailinglista</a>,
 gå med och hjälp oss! Vi ser gärna att vi får så många olika
 projekt och grupperingar representerade och intresserade!
 
-<p> Vi är över 200 pers på mailinglistan, och kanske 140 personer var
-med på vår första träff, men se gärna till att informera era
-egna kontakter om vår existens så att vi når ut bättre.
+<p> Vi är över 250 pers på mailinglistan, men se gärna till att
+informera era egna kontakter om vår existens så att vi når ut
+bättre.
 
 <p>
  Initiativet foss-sthlm startade 7:e dec 2009 av Claes och Daniel.
+
+BOXBOT
 
 <div class="frontbox">
 
 <big>
 SUBTITLE(Kommande evenemang)
 <p>
- <a href="mote2.html">Möte #2</a> - 19:e maj 2010
-<p>
- <a href="mote3.html">Community Hack - Möte #3</a> - 4-5 september 2010
+  tja, ett möte #6 framåt våren?
 </big>
 </div>
 
@@ -55,18 +67,30 @@ SUBTITLE(Oberoende och obundna)
 
 <p>
  Alla är välkomna!
+
+<p>
+ Admin för listan och servern här är daniel at haxx punkt se, men använd helst
+ mailinglistan.
 </div>
 
 <div class="frontbox">
 SUBTITLE(Tidigare träffar)
 <p>
- <a href="mote1.html">möte #1</a> - 24:e februari 2010
+ <a href="/mote1.html">möte #1</a> - 24:e februari 2010
+<p>
+ <a href="/mote2.html">möte #2</a> - 19:e maj 2010
+<p>
+ <a href="/mote3.html">möte #3 / Communityhack II</a> - 4-5:e sep 2010
+<p>
+ <a href="mote4.html">möte #4</a> - 26 oktober 2010
+<p>
+ <a href="mote5.html">möte #5</a> - 24:e februari 2011
 </div>
 
 <div class="frontbox">
 SUBTITLE(IRC)
 <p>
- Vi hänger på IRC i kanalen<br>#foss-sthlm på freenode.
+ Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
 </div>
 
 <div class="frontbox">
@@ -74,11 +98,14 @@ SUBTITLE(I samma anda)
 <p>
  Andra sammanslutningar som delar mycket av våra värderingar och tankar:
 <p>
- <a href="http://geekgirlmeetup.com/">GeekGirl Meetup</a>
+ <a href="http://geekgirlmeetup.com/">GeekGirl Meetup</a><br>
+ <a href="http://www.owasp.org/index.php/Sweden">OWASP Sweden</a>
 </div>
 
 <div class="frontbox">
 SUBTITLE(I media)
+<p>
+  6 Maj 2010: <a href="http://www.internetdagarna.se/track/ip-och-infrastruktur/foss-mote-26-okt">Nätverket foss-sthlm på Internetdagarna 26 okt!</a>
 <p>
   12 jan 2010: <a href="http://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">Träffa andra FOSS-hackers i Stockholm!</a><br>
 <p>
@@ -97,65 +124,82 @@ räknas dit. Folk som kanske kan svara på frågor om projektet eller
 köra en dragning.
 
 <p>
- Asterisk,
+ <a href="http://www.asterisk.org/">Asterisk</a>,
+ autobuild,
+ <a href="http://www.bouncycastle.org/">BouncyCastle</a>,
+ <a href="http://c-ares.haxx.se/">c-ares</a>,
+ <a href="http://www.cinderella-project.net/">Cinderella</a>,
+ <a href="http://common-lisp.net/project/cl-json/">CL-JSON</a>,
  CouchDB/Divan,
- DNSCheck,
- Debian,
- Divan,
- Endrov,
- Fedora,
+ <a href="http://code.google.com/p/credis/">credis</a>,
+ <a href="http://curl.haxx.se/">curl</a>,
+ <a href="http://opensource.iis.se/trac/dnscheck/">DNSCheck</a>,
+ <a href="http://www.debian.org/">Debian</a>,
+ <a href="http://eclipse.org/egit/">EGit</a>,
+ <a href="http://www.ejbca.org/">EJBCA</a>,
+ <a href="http://common-lisp.net/project/elephant/">Elephant</a>,
+ <a href="http://www.endrov.net/">Endrov</a>,
+ <a href="http://fedoraproject.org/">Fedora</a>,
+ ffmpeg,
+ <a href="http://fribid.se/">fribid</a>,
+ <a href="http://git-scm.com/">Git</a>,
+ git2cl,
+ Gjallar,
+ gmp,
  GNU GSS,
  GNU SASL,
- Gjallar,
- GnuTLS,
+ <a href="http://www.gnutls.org/">GnuTLS</a>,
  HOTP Toolkit,
+ <a href="http://eclipse.org/jgit/">JGit</a>,
  Kamailio,
- Libidn,
- Libntlm,
- Libtasn1,
- OpenDNSSEC,
+ <a href="http://www.gnu.org/software/libidn/">Libidn</a>,
+ <a href="http://josefsson.org/libntlm/">Libntlm</a>,
+ <a href="http://www.libssh2.org/">libssh2</a>,
+ <a href="http://www.gnu.org/software/libtasn1/">Libtasn1</a>,
+ lsh,
+ nettle,
+ <a href="http://www.opendnssec.org/">OpenDNSSEC</a>,
+ perl/CPAN,
  Pike,
  Plone,
  PostgreSQL,
  Rakudo,
- Rockbox,
+ <a href="http://www.rockbox.org/">Rockbox</a>,
  Roxen,
  Seaside,
  Shishi,
+ <a href="http://www.signserver.org/">SignServer</a>,
  Smalltalk,
  Squeak,
+ <a href="http://www.squid-cache.org/">squid</a>,
+ <a href="http://code.google.com/p/terrastore/">Terrastore</a>,
  Yubico's yubico-c,
- autobuild,
- c-ares,
- curl,
- ffmpeg,
- git2cl,
- gmp,
- libssh2,
- lsh,
- nettle,
- perl/CPAN,
- squid,
  yk-ksm,
  yk-val
 
 och många fler!
 
 </ul>
-
+<p>
+<small> Skicka länkar till projekten så kommer de in...</small>
 </div>
 
 <div class="frontbox">
 
 SUBTITLE(Sponsorer)
 <p>
- Följande fina företag har varit med och sponsrat foss-sthlm:
+ Följande fina företag har varit med och sponsrat foss-sthlm-evenemang:
 
-<br> <a href="http://www.msc.se/">MSC</a>
-<br> <a href="http://www.nohup.se/">Nohup</a>
-
+<p>
+<a href="http://www.academicwork.se/">Academic Work</a>,
+<a href="http://www.cag.se/">CAG</a>,
+<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
+<a href="http://www.msc.se/">MSC</a>,
+<a href="http://www.nohup.se/">Nohup</a>,
+<a href="http://www.iis.se/">.SE</a>,
+<a href="http://www.spotify.com/">Spotify</a>,
+<a href="http://www.dqc.se/">DQC</a>,
+<a href="http://omegapoint.se/">Omegapoint</a>
 </div>
-
-BOXBOT
 
 #include "footer.t"

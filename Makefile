@@ -5,7 +5,8 @@ ACTION=@echo preprocessing $@; rm -f $@; /home/dast/bin/cpp -WWW -Uunix -H -I$(R
 
 all:	index.html mailtop.html mailbot.html indextop.html indexbot.html \
 	mailhead.html talks.html mote1.html mote1-dok.html mote2.html \
-	anmal.html dsv.html mote3.html mote4.html mote2-antal
+	anmal.html dsv.html mote3.html mote4.html mote2-dok.html \
+	mote5.html mote6.html
 
 index.html: index.t $(MAINPARTS)
 	$(ACTION)
@@ -22,11 +23,8 @@ dsv.html: dsv.t $(MAINPARTS)
 mote1.html: mote1.t $(MAINPARTS)
 	$(ACTION)
 
-mote2.html: mote2.t $(MAINPARTS) mote2-folk mote2-antal
+mote2.html: mote2.t $(MAINPARTS)
 	$(ACTION)
-
-mote2-antal: mote2-folk
-	tr ',' '\012' < mote2-folk  | cat -n | tail -1 | cut -f 1 > mote2-antal
 
 mote3.html: mote3.t $(MAINPARTS)
 	$(ACTION)
@@ -34,7 +32,16 @@ mote3.html: mote3.t $(MAINPARTS)
 mote4.html: mote4.t $(MAINPARTS)
 	$(ACTION)
 
+mote5.html: mote5.t $(MAINPARTS)
+	$(ACTION)
+
+mote6.html: mote6.t $(MAINPARTS)
+	$(ACTION)
+
 mote1-dok.html: mote1-dok.t $(MAINPARTS)
+	$(ACTION)
+
+mote2-dok.html: mote2-dok.t $(MAINPARTS)
 	$(ACTION)
 
 mailtop.html: mailtop.t $(MAINPARTS) mailmenu.t

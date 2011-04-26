@@ -10,8 +10,12 @@ BOXTOP
 <p>
   Stockholms universitet, data- och systemvetenskap, DSV - <a href="http://dsv.su.se/omdsv/kontakt/hittahit">DSV, Campus Kista. Isafjordsgatan 39</a>
 
-<p>
- DSV låter oss använda deras lokaler utan kostnad. Vi är mycket tacksamma.
+<p> <b>Tack DSV</b>, för att ni låter oss använda era lokaler utan
+kostnad. Vi är mycket tacksamma.
+
+<p> Lokalen rymmer lite drygt 200 personer och är utrustad med modern
+projektorutrustning och bekväma stolar.  Tyvärr har vi inte tillgång
+till fri Wifi där.
 
 <p>
 <center>
@@ -27,12 +31,12 @@ src="http://www.openstreetmap.org/export/embed.html?mlat=59.405521&mlon=17.94489
 </center>
 #endif
 
-<p>Några bilder på var vi ska vara:
-<table>
+<p>Några bilder på var vi ska vara (klicka för att se större versioner):
+<table cellpadding="5">
 <tr>
-<td><a href="dsv/pilar.jpg"><img src="dsv/pilart.jpg"></a><br>Liten karta</td>
-<td><a href="dsv/rum1.jpg"><img src="dsv/rum1t.jpg"></a><br>Lokalen</td>
-<td><a href="dsv/rum2.jpg"><img src="dsv/rum2t.jpg"></a><br>Talarplats</td>
+<td><a href="dsv/pilar.jpg"><img src="dsv/pilart.jpg"></a><br>Vy precis innanför entrén</td>
+<td><a href="dsv/rum1.jpg"><img src="dsv/rum1t.jpg"></a><br>Lokalen sedd nästan från talarplats</td>
+<td><a href="dsv/rum2.jpg"><img src="dsv/rum2t.jpg"></a><br>Lokalen sedd från bakersta raden</td>
 <td><a href="dsv/lounge1.jpg"><img src="dsv/lounge1t.jpg"></a><br>"Lounge" med kaffe</td>
 <td><a href="dsv/lounge2.jpg"><img src="dsv/lounge2t.jpg"></a><br>"Lounge"</td>
 </tr>
