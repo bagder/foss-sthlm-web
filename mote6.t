@@ -19,17 +19,17 @@ BOXTOP
 <table>
 <tr><td><b>Datum:</b></td><td> tisdag 24:e maj 2011 </td></tr>
 <tr><td><b>Klockan:</b></td><td> 16:00 - 20:00</td></tr>
-<tr><td><b>Var:</b></td><td> ... </td></tr>
+<tr><td><b>Var:</b></td><td> <a href="http://www.konferenspoolen.se/konferens__1053.html/lid/229">Kungsholmen Konferens & Matsal</a>, Fleminggatan 18</td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis!</td></tr>
-<tr><td><b>Anmälan:</b></td><td> <a href="anmal.html">anmäl dig här</a></td></tr>
+<tr><td><b>Anmälan:</b></td><td> <a href="anmal.html">anmäl dig här</a> senast fredagen den 20:e maj</td></tr>
 <tr><td><b>LinkedIn:</b></td><td> <a href="http://linkedin.com/">foss-sthlm möte #6</a> - så syns vi ännu mer</td></tr>
 <tr><td><b>Eftersnack:</b></td><td> ja (detaljer kommer senare) </td></tr>
 
-<tr><td><b>Sponsorer:</b></td><td> <a href="http://www.combitech.se/">Combitech</a> </td></tr>
+<tr><td><b>Sponsor:</b></td><td> <a href="http://www.combitech.se/">Combitech</a> </td></tr>
 
 <tr><td><b>Antal anmälda:</b></td><td>
 <div class="big">
-0
+1
 </div>
 </td></tr>
 </table>
@@ -74,28 +74,12 @@ vidare runt FOSS resten av kvällen.
 </div>
 #endif
 <p>
- Våra sponsorer kommer att bjuda på mackor med dricka att plocka på
+ Vår sponsor kommer att bjuda på mackor med dricka att plocka på
  sig vid ankomst. 
 
 <p>
  Under fikapausen kommer kaffe/te att bjudas på tillsammans med någon typ av
  bulle/kaka.
-
-<p>
-
-<p>
-SUBTITLE(Lokalen)
-<p>
- Se <a href="....html">...-sidan</a> för alla detaljer.
-
-SUBTITLE(Företagsnotiser)
-<p>
-
-Företag eller organisationer som har "annonser" av vilket slag som helst
-som de vill nå ut med till deltagare, producerar en binge som hamnar på
-"annons-bordet" på träffen så att besökare som är intresserade
-kan plocka åt sig och konsumera precis det som de är intresserade av -
-och de som inte är intresserade slipper.
 
 BOXBOT
 
