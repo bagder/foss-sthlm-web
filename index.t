@@ -50,7 +50,7 @@ BOXBOT
 <big>
 SUBTITLE(Kommande evenemang)
 <p>
-  tja, ett möte #6 framåt våren?
+  <a href="mote6.html">möte #6</a> - 24:e maj!
 </big>
 </div>
 
