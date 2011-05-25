@@ -190,11 +190,12 @@ och många fler!
 
 SUBTITLE(Sponsorer)
 <p>
- Följande fina företag har varit med och sponsrat foss-sthlm-evenemang:
+ Följande företag har varit med och sponsrat foss-sthlm-evenemang:
 
 <p>
 <a href="http://www.academicwork.se/">Academic Work</a>,
 <a href="http://www.cag.se/">CAG</a>,
+<a href="http://www.combitech.se/">Combitech</a>,
 <a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
 <a href="http://www.msc.se/">MSC</a>,
 <a href="http://www.nohup.se/">Nohup</a>,
