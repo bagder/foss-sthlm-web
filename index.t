@@ -7,10 +7,10 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
 #if 0
-<div class="upcoming">
+<div class="alert">
 <b>Nästa evenemang:</b><p>
 
-Tisdag 24:e februari, en kv&auml;ll med seminarer - gratis, följt av vidare foss-snack på en
+Tisdag 24:e maj, en kv&auml;ll med seminarer - gratis, följt av vidare foss-snack på en
 pub i närheten. Vi kallar det <a href="mote6.html">möte #6</a>.
 
 </div>
@@ -50,7 +50,7 @@ BOXBOT
 <big>
 SUBTITLE(Kommande evenemang)
 <p>
-  <a href="mote6.html">möte #6</a> - 24:e maj!
+  möte #7 efter sommaren?
 </big>
 </div>
 
@@ -85,6 +85,8 @@ SUBTITLE(Tidigare träffar)
  <a href="mote4.html">möte #4</a> - 26 oktober 2010
 <p>
  <a href="mote5.html">möte #5</a> - 24:e februari 2011
+<p>
+ <a href="mote6.html">möte #6</a> - 24:e maj 2011
 </div>
 
 <div class="frontbox">
