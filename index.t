@@ -10,8 +10,8 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 <div class="alert">
 <b>Nästa evenemang:</b><p>
 
-Tisdag 24:e maj, en kv&auml;ll med seminarer - gratis, följt av vidare foss-snack på en
-pub i närheten. Vi kallar det <a href="mote6.html">möte #6</a>.
+<a href="nov2011.html">Tisdagen den 8:e november</a> kommer Richard Stallman
+att prata om Free Software i Stockholm.
 
 </div>
 #endif
@@ -36,7 +36,7 @@ href="http://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">mailinglista</a>,
 gå med och hjälp oss! Vi ser gärna att vi får så många olika
 projekt och grupperingar representerade och intresserade!
 
-<p> Vi är över 250 pers på mailinglistan, men se gärna till att
+<p> Vi är över 320 pers på mailinglistan, men se gärna till att
 informera era egna kontakter om vår existens så att vi når ut
 bättre.
 
@@ -50,7 +50,7 @@ BOXBOT
 <big>
 SUBTITLE(Kommande evenemang)
 <p>
-  möte #7 efter sommaren?
+  ... kanske januari 2012?
 </big>
 </div>
 
@@ -67,6 +67,8 @@ SUBTITLE(Oberoende och obundna)
 
 <p>
  Alla är välkomna!
+
+<p> <a href="http://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a> berättar hur vi hanterar namn och email!
 
 <p>
  Admin för listan och servern här är daniel at haxx punkt se, men använd helst
@@ -87,6 +89,8 @@ SUBTITLE(Tidigare träffar)
  <a href="mote5.html">möte #5</a> - 24:e februari 2011
 <p>
  <a href="mote6.html">möte #6</a> - 24:e maj 2011
+<p>
+ <a href="nov2011.html">RMS-snack om Free Software</a> - 8 nov 2011
 </div>
 
 <div class="frontbox">
@@ -101,7 +105,8 @@ SUBTITLE(I samma anda)
  Andra sammanslutningar som delar mycket av våra värderingar och tankar:
 <p>
  <a href="http://geekgirlmeetup.com/">GeekGirl Meetup</a><br>
- <a href="http://www.owasp.org/index.php/Sweden">OWASP Sweden</a>
+ <a href="http://www.owasp.org/index.php/Sweden">OWASP Sweden</a><br>
+ <a href="http://svenskalinuxforeningen.se/">Svenska Linuxföreningen</a>
 </div>
 
 <div class="frontbox">
@@ -196,10 +201,13 @@ SUBTITLE(Sponsorer)
 <a href="http://www.academicwork.se/">Academic Work</a>,
 <a href="http://www.cag.se/">CAG</a>,
 <a href="http://www.combitech.se/">Combitech</a>,
+<a href="http://www.dsv.su.se/">DSV</a>,
+<a href="http://www.haxx.se/">Haxx</a>,
 <a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
 <a href="http://www.msc.se/">MSC</a>,
 <a href="http://www.nohup.se/">Nohup</a>,
 <a href="http://www.iis.se/">.SE</a>,
+<a href="http://www.southpole.com/">South Pole</a>,
 <a href="http://www.spotify.com/">Spotify</a>,
 <a href="http://www.dqc.se/">DQC</a>,
 <a href="http://omegapoint.se/">Omegapoint</a>
