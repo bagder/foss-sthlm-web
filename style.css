@@ -70,6 +70,7 @@ LI {
   border-style: solid;
   border-color: #000000;
   padding: 2px 2px 2px 2px;
+  max-width: 60em;
 }
 
 .boxnarrow {
