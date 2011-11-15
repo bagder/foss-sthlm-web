@@ -6,7 +6,7 @@ ACTION=@echo preprocessing $@; rm -f $@; /home/dast/bin/cpp -WWW -Uunix -H -I$(R
 all:	index.html mailtop.html mailbot.html indextop.html indexbot.html \
 	mailhead.html talks.html mote1.html mote1-dok.html mote2.html \
 	anmal.html dsv.html mote3.html mote4.html mote2-dok.html \
-	mote5.html mote6.html om.html namnpolicy.html
+	mote5.html mote6.html om.html namnpolicy.html nov2011.html
 
 index.html: index.t $(MAINPARTS)
 	$(ACTION)
@@ -42,6 +42,9 @@ mote5.html: mote5.t $(MAINPARTS)
 	$(ACTION)
 
 mote6.html: mote6.t $(MAINPARTS)
+	$(ACTION)
+
+nov2011.html: nov2011.t $(MAINPARTS)
 	$(ACTION)
 
 mote1-dok.html: mote1-dok.t $(MAINPARTS)
