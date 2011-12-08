@@ -31,10 +31,9 @@ Source-folk i det här området. Användare javisst, men gärna
 utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. För oss!</i>
 
 <p>
- Vår <a
-href="http://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">mailinglista</a>,
-gå med och hjälp oss! Vi ser gärna att vi får så många olika
-projekt och grupperingar representerade och intresserade!
+ Gå med vår <a href="/listor.html">mailinglista</a> och häng på!
+Vi ser gärna att vi får så många olika projekt och grupperingar
+representerade och intresserade!
 
 <p> Vi är över 320 pers på mailinglistan, men se gärna till att
 informera era egna kontakter om vår existens så att vi når ut
