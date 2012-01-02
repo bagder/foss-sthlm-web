@@ -1,4 +1,4 @@
-<include "doctype.t"
+#include "doctype.t"
 #include "setup.t"
 HEAD(foss-sthlms mailinglistor)
 #include "body.t"

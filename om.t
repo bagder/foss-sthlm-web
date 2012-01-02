@@ -1,4 +1,4 @@
-<include "doctype.t"
+#include "doctype.t"
 #include "setup.t"
 HEAD(Om foss-sthlm)
 #include "body.t"

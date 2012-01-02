@@ -10,7 +10,7 @@ BOXTOP
 #if 1
 <p>
 
- För att anmäla dig till <a href="mote6.html">möte #6</a> gör såhär:
+ För att anmäla dig till <a href="jan2012.html">möte jan2012</a> gör såhär:
 
 <p>
  Skriv ett mail som innehåller följande information:
@@ -26,8 +26,8 @@ mingla, dricka en öl och snacka open source
 
 <p>
  Skicka mailet till
- <a href="mailto:foss-sthlm-mote6@haxx.se">foss-sthlm-mote6@haxx.se</a>, skriv
-gärna "foss-sthlm anmälan" eller något sånt i subject.
+ <a href="mailto:foss-sthlm-jan2012@haxx.se">foss-sthlm-jan2012@haxx.se</a>,
+skriv gärna "foss-sthlm anmälan" eller något sånt i subject.
 
 
 <p>
@@ -42,7 +42,7 @@ kommer på att ni inte kan komma av någon anledning. Maila samma adress
 för det.
 
 <p>
- Vi tar emot anmälningar fram till och med fredagen den 20:e maj.
+ Vi tar emot anmälningar fram till och med måndagen den 23:e januari.
 
 #else
  <b>Vi tar just nu inte emot anmälningar till evenemang!</b>

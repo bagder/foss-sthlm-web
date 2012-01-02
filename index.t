@@ -1,4 +1,4 @@
-<include "doctype.t"
+#include "doctype.t"
 #include "setup.t"
 HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "body.t"
@@ -49,7 +49,7 @@ BOXBOT
 <big>
 SUBTITLE(Kommande evenemang)
 <p>
-  ... kanske januari 2012?
+  <a href="jan2012.html">25:e januari 2012</a>
 </big>
 </div>
 
