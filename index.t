@@ -6,12 +6,12 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 0
+#if 1
 <div class="alert">
 <b>Nästa evenemang:</b><p>
 
-<a href="nov2011.html">Tisdagen den 8:e november</a> kommer Richard Stallman
-att prata om Free Software i Stockholm.
+<a href="jan2012.html">Onsdagen den 25:e januari</a> kör vi ett antal
+seminarier med foss-vinkel, gratis inträde som vanligt!
 
 </div>
 #endif
