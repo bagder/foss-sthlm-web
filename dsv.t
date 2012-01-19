@@ -49,7 +49,13 @@ bilden "liten karta" ovan. Ta den trappan upp.
 
 SUBTITLE(Komma dit med tunnelbana)
 <p>
- Ta blåa linjen till Kista. Ta utgången som går norrut mellan butik X och Y [TODO]. Leta fram Isafjordsgatan 39.
+ Ta blåa linjen till Kista.
+<p>
+ Ta norra utgången från T-banan och gå in i Kista Centrum. Där
+fortsätter du ut ur centrum igen genom den norra utgången precis bredvid
+café Paccini.
+<p>
+ Gå över gångbron och håll vänster. Leta fram Isafjordsgatan 39.
 
 SUBTITLE(Komma dit med bil)
 <p>
