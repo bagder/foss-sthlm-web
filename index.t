@@ -6,7 +6,7 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 1
+#if 0
 <div class="alert">
 <b>Nästa evenemang:</b><p>
 
@@ -169,6 +169,7 @@ köra en dragning.
  Pike,
  Plone,
  PostgreSQL,
+ <a href="http://software.uninett.no/radsecproxy/">radsecproxy</a>,
  Rakudo,
  <a href="http://www.rockbox.org/">Rockbox</a>,
  Roxen,
@@ -179,6 +180,7 @@ köra en dragning.
  Squeak,
  <a href="http://www.squid-cache.org/">squid</a>,
  <a href="http://code.google.com/p/terrastore/">Terrastore</a>,
+ <a href="https://torproject.org/">Tor</a>,
  Yubico's yubico-c,
  yk-ksm,
  yk-val
