@@ -33,7 +33,7 @@ LinkedIn-grejen gäller inte som en anmälan!) </i></td> </tr>
 
 <tr><td><b>Antal anmälda:</b></td><td>
 <div class="big">
-81
+108
 </div>
 </td></tr>
 </table>
