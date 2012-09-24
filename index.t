@@ -6,16 +6,17 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 0
+#if 1
 <div class="alert">
-<b>Nästa evenemang:</b><p>
+<b>Kommande evenemang:</b><p>
 
-<a href="jan2012.html">Onsdagen den 25:e januari</a> kör vi ett antal
-seminarier med foss-vinkel, gratis inträde som vanligt!
+<p>
+<a href="okt2012.html">Lördagen den 20:e oktober</a> hackar vi inbyggd Linux!
 
 </div>
 #endif
 
+<div style="width:195px; text-align:center; float: right;" ><iframe  src="http://www.eventbrite.com/countdown-widget?eid=4309668334" frameborder="0" height="416" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/ecount">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://http://inbyggdlinuxhacking.eventbrite.com?ref=ecount">Hacka inbyggd Linux med FOSS-STHLM!</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=ecount">Eventbrite</a></div></div>
 
 <div class="frontbox">
 SUBTITLE(foss-sthlm)
@@ -35,44 +36,14 @@ utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. F
 Vi ser gärna att vi får så många olika projekt och grupperingar
 representerade och intresserade!
 
-<p> Vi är över 320 pers på mailinglistan, men se gärna till att
+<p> Vi är över 330 pers på mailinglistan, men se gärna till att
 informera era egna kontakter om vår existens så att vi når ut
 bättre.
 
 <p>
- Initiativet foss-sthlm startade 7:e dec 2009 av Claes och Daniel.
+ foss-sthlm startades av Claes och Daniel den 7:e dec 2009 
 
 BOXBOT
-
-<div class="frontbox">
-
-<big>
-SUBTITLE(Kommande evenemang)
-<p>
-  <a href="jan2012.html">25:e januari 2012</a>
-</big>
-</div>
-
-<div class="frontbox">
-SUBTITLE(Oberoende och obundna)
-
-<p> Vi är inte organiserade i något speciellt läger. Vi är
- öppna och intresserade av FOSS från alla håll. Linux/BSD/Hurd,
- emacs/vi/pico, C/python/perl/java/Smalltalk/LISP, GNOME/KDE/Xfce spelar ingen
- roll!
-
-<p>
- Vi är ingen formell förening och vi har inga avgifter.
-
-<p>
- Alla är välkomna!
-
-<p> <a href="http://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a> berättar hur vi hanterar namn och email!
-
-<p>
- Admin för listan och servern här är daniel at haxx punkt se, men använd helst
- mailinglistan.
-</div>
 
 <div class="frontbox">
 SUBTITLE(Tidigare träffar)
@@ -89,7 +60,35 @@ SUBTITLE(Tidigare träffar)
 <p>
  <a href="mote6.html">möte #6</a> - 24:e maj 2011
 <p>
- <a href="nov2011.html">RMS-snack om Free Software</a> - 8 nov 2011
+ 7 - <a href="nov2011.html">RMS-snack om Free Software</a> - 8 nov 2011
+<p>
+ 8 - <a href="jan2012.html">25:e januari 2012</a>
+<p>
+ 9 - <a href="sep2012.html">måndagen den 10:e september</a> träff och
+snack över en öl
+
+</div>
+
+<div class="frontbox">
+SUBTITLE(Oberoende och obundna)
+
+<p> Vi är inte organiserade i något speciellt läger. Vi är
+ öppna och intresserade av FOSS från alla håll. Linux/BSD/Hurd,
+ emacs/vi/pico, C/python/perl/java/Smalltalk/LISP, GNOME/KDE/Xfce spelar ingen
+ roll!
+
+<p>
+ Vi är ingen formell förening och vi har inga avgifter.
+
+<p>
+ Alla är välkomna!
+
+<p> <a href="http://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a>
+berättar hur vi hanterar namn och email-adresser!
+
+<p>
+ Admin för listan och servern här är daniel at haxx punkt se, men använd helst
+ mailinglistan.
 </div>
 
 <div class="frontbox">
