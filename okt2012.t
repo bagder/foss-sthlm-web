@@ -109,30 +109,95 @@ det förstås hjälpa till att korta startsträckan för dig och för andra!
 </td><td>
 <h1>Schema</h1>
 
-<p> <b>10:00</b> Välkommen, dörrar öppnas, hiss åkes, plats
+<table>
+
+<tr valign="top"><td> <b>10:00</b>
+</td><td> Välkommen, dörrar öppnas, hiss åkes, plats
 hittas. Kablar kopplas in.
 
 <p> Välkommen, lite praktiska saker, lite gåvor från värden, lite
-snack. Kanske en macka och en kopp kaffe. Vi börjar lugnt. Tjena, länge
+snack. Kanske en kopp kaffe? Vi börjar lugnt. Tjena, länge
 sen vi sågs, vad ska du hacka på idag då?
 
 <p> Skriva upp sin projektide på whiteboard.
+</td></tr>
 
-<p> <b>11:30</b> ett 30 minuters föredrag för de som kan slita sig från
-tangentbordet
+<tr valign="top"><td><b>11:30</b></td><td> Föredrag:
 
-<p> <b>12:00</b> en enklare lunch erbjuds av Enea
+<b>Linux och open source inom inbyggda system - idag och imorron</b> med
+Daniel Stenberg<p> Daniel berättar om hur den kommersiella marknaden
+för opensource-operativsystem på inbyggda system ser ut. Hur mycket
+pengar tjänar vilka företag? Vad säger kunderna? Varför köper
+kunder detta? Hur set det ut framöver? etc
 
-<p> <b>13:00</b> tillbaks och få något gjort...
+<p><i>Daniel har tjugo års bakgrund inom öppen kod och mer än så
+inom inbyggda system, har jobbat med inbyggd Linux i tio år och är idag
+produkt-ansvarig för Enea Linux, en helt ny kommersiell
+linuxdistribution. Konsult på Haxx AB.</i>
 
-<p> <b>15:00</b> ett 30 minuters föredrag
-<p> <b>15:30</b> ett 30 minuters föredrag
-<p> <b>16:00</b> fikapaus, och tillbaks till verkligheten
-<p> <b>17:00</b> det sista 30 minuters föredraget för dagen
+</td></tr>
 
-<p> <b>19:00</b> en slot för någon typ av presentation, demo eller annat
+<tr valign="top"><td><b>12:00</b></td><td> en enklare lunch erbjuds av Enea
+</td></tr>
+
+<tr valign="top"><td> <b>13:00</b></td><td> <b>tävling</b> - kunskap,
+kompetens, hjärna och snabbhet är bra egenskaper där...
+</td></tr>
+
+<tr valign="top"><td> <b>13:30</b></td><td> tillbaks och få något gjort...
+</td></tr>
+
+<tr valign="top"><td><b>15:00</b></td><td>
+
+Föredrag: <b>Reverse engineering - egen kod på andras
+hårdvara</b> med Linus Nielsen Feltzing<p> Berättelsen om arbetet
+för att porta Rockbox till iRiver H100-seriens MP3-spelare.
+
+<p><i>Linus Nielsen Feltzing är självlärd hacker med fokus på
+inbyggda system och hårdvarunära programmering. Nästan 30 års
+erfarenhet, från C64 och Amiga till mobilbasstationer och
+livsuppehållande medicinteknik.  Han är en av grundarna till Haxx AB,
+och även en av grundarna till Rockbox-projektet. Han trivs bäst med
+logikanalysator i ena handen och tangentbordet i den andra.</i>
+
+</td></tr>
+
+<tr valign="top"><td><b>15:30</b></td><td>
+
+Föredrag: <b>Yocto Project...</b> med Björn Stenberg
+
+</td></tr>
+
+<tr valign="top"><td><b>16:00</b></td><td> fikapaus, och tillbaks till verkligheten
+</td></tr>
+
+<tr valign="top"><td><b>17:00</b></td><td>
+
+Föredrag:
+
+<b>U-Boot för Allwinner A1x - Portning, debugging mm.</b> med Henrik Nordström
+<p>
+Henrik berättar om erfarenheter från portning av U-Boot till Allwinner
+A1x som primär bootloader. Vad är U-Boot SPL, debugging av U-Boot med
+mera.
+<p>
+<i>
+Henrik Nordström är en hacker med fokus på fri programvara, linux och
+nätverk. Håller oftast till i de lite högre nivåerna med
+nätverkprotokoll och nätapplikationer, men går gärna tillbaka till
+rötterna med hårdvarunära programmering när tillfälle ges.
+</i>
+
+</td></tr>
+
+<tr valign="top"><td> <b>19:00</b></td><td> en slot för någon typ av presentation, demo eller annat
 skryt ifall någon nått fram till något att visa upp
-<p> <b>20:00</b> slut för dagen. 
+
+</td></tr>
+
+<tr valign="top"><td> <b>20:00</b></td><td> slut för dagen.
+</td></tr>
+</table>
 
 <h2>Föda, energi och näring</h2>
 <p> Macka, lunch, fika, kaffe, vatten och kanske lite frukt kommer erbjudas under dagen.
