@@ -106,6 +106,11 @@ med micro-USB kontakt för att driva den.
 det förstås hjälpa till att korta startsträckan för dig och för andra!
 </ul>
 
+<h2>Föda, energi och näring</h2>
+<p> Lunch, fika, kaffe, vatten och kanske lite frukt kommer erbjudas under dagen.
+<p>
+<img src="rpi-serial.jpg" height="267" width="400" alt="Raspberry Pi with serial cable">
+
 </td><td>
 <h1>Schema</h1>
 
@@ -145,6 +150,10 @@ kompetens, hjärna och snabbhet är bra egenskaper där...
 </td></tr>
 
 <tr valign="top"><td> <b>13:30</b></td><td> tillbaks och få något gjort...
+</td></tr>
+
+<tr valign="top"><td><b>14:30</b></td><td>
+Föredrag: <b>kommer snart</b> med [kommer snart].
 </td></tr>
 
 <tr valign="top"><td><b>15:00</b></td><td>
@@ -198,11 +207,6 @@ skryt ifall någon nått fram till något att visa upp
 <tr valign="top"><td> <b>20:00</b></td><td> slut för dagen.
 </td></tr>
 </table>
-
-<h2>Föda, energi och näring</h2>
-<p> Macka, lunch, fika, kaffe, vatten och kanske lite frukt kommer erbjudas under dagen.
-<p>
-<img src="rpi-serial.jpg" height="267" width="400" alt="Raspberry Pi with serial cable">
 
 </td></tr></table>
 
