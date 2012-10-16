@@ -145,15 +145,15 @@ linuxdistribution. Konsult på Haxx AB.</i>
 <tr valign="top"><td><b>12:00</b></td><td> en enklare lunch erbjuds av Enea
 </td></tr>
 
-<tr valign="top"><td> <b>13:00</b></td><td> <b>tävling</b> - kunskap,
+<tr valign="top"><td><b>13:00</b></td><td>
+Föredrag: <b>[kommer snart]</b> med Jonas Svennebring.
+</td></tr>
+
+<tr valign="top"><td> <b>13:30</b></td><td> <b>tävling</b> - kunskap,
 kompetens, hjärna och snabbhet är bra egenskaper där...
 </td></tr>
 
-<tr valign="top"><td> <b>13:30</b></td><td> tillbaks och få något gjort...
-</td></tr>
-
-<tr valign="top"><td><b>14:30</b></td><td>
-Föredrag: <b>kommer snart</b> med [kommer snart].
+<tr valign="top"><td> <b>14:00</b></td><td> tillbaks och få något gjort...
 </td></tr>
 
 <tr valign="top"><td><b>15:00</b></td><td>
@@ -173,7 +173,16 @@ logikanalysator i ena handen och tangentbordet i den andra.</i>
 
 <tr valign="top"><td><b>15:30</b></td><td>
 
-Föredrag: <b>Yocto Project...</b> med Björn Stenberg
+Föredrag: <b>Yocto-projektet - enad inbyggd linux</b> med Björn Stenberg
+
+<p> Inbyggd Linux har under många år varit ett äventyr med mycket
+custom-hack och halv-proprietära lösningar. 2011 bildades under Linux
+Foundation samarbetsprojektet Yocto för att skapa ett enat system för
+inbyggda Linux-distributioner.
+
+<p><i>Björn är konsult på Haxx AB och har jobbat med inbyggda system
+i mer än två decennier. Han hjälper just nu Enea med utvecklingen av
+Enea Linux.</i>
 
 </td></tr>
 
