@@ -78,6 +78,14 @@ tillgå.
 <p>
  Självklart tar du med din egen pryl om du hellre vill jobba med den!
 
+<p>
+ USB-portarna på Raspberry Pi kan bara leverera 100mA, alltså behövs
+en extern USB-hub med egen kraftförsörjning för att driva lite tyngre
+tillbehör.
+<p>
+ Det finns en bra lista med fungerande / icke-fungerande hårdvara på <a
+href="http://elinux.org/RPi_VerifiedPeripherals">http://elinux.org/RPi_VerifiedPeripherals</a>.
+
 <h2>Att ta med</h2>
 
 <ul>
@@ -96,7 +104,7 @@ kan hjälpas åt.
 
 <li> För Raspberry Pi tar du kanske med en HDMI-kabel och en display om du
 vill se grafik från den. Vill du köra mus/tangentbord direkt mot den
-så kom ihåg sånt också!
+så kom ihåg sånt också! <b>Vi kommer inte kunna låna ut skärmar!</b>
 
 <li> Ström till Raspberry Pi: seriekabeln vi har driver kortet själv
 när den är inkopplad. Är inte det bra nog kan man ta med sig en kabel
