@@ -154,7 +154,15 @@ linuxdistribution. Konsult på Haxx AB.</i>
 </td></tr>
 
 <tr valign="top"><td><b>13:00</b></td><td>
-Föredrag: <b>[kommer snart]</b> med Jonas Svennebring.
+Föredrag: <b>Utveckling och trender av multicore kretsar inom halvledarindustrin</b> med Jonas Svennebring<p>
+
+<p>... inklusive demo av T4240 - Freescales senaste 28nm flaggskepp som
+nyligen slagit rekord i CoreMark prestanda.
+
+<p><i>Jonas Svennebring har arbetar 15 år inom halvledarutvekling och
+arbetar nu på Freescale Semiconductor där han bla. ingick i
+arkitekturteamet för T4240.</i>
+
 </td></tr>
 
 <tr valign="top"><td> <b>13:30</b></td><td> <b>tävling</b> - kunskap,
