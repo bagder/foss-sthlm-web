@@ -159,7 +159,7 @@ Föredrag: <b>Utveckling och trender av multicore kretsar inom halvledarindustrin
 <p>... inklusive demo av T4240 - Freescales senaste 28nm flaggskepp som
 nyligen slagit rekord i CoreMark prestanda.
 
-<p><i>Jonas Svennebring har arbetar 15 år inom halvledarutvekling och
+<p><i>Jonas Svennebring har arbetat 15 år inom halvledarutvekling och
 arbetar nu på Freescale Semiconductor där han bla. ingick i
 arkitekturteamet för T4240.</i>
 

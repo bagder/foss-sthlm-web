@@ -6,7 +6,7 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 1
+#if 0
 <div class="alert">
 <b>Kommande evenemang:</b><p>
 
@@ -16,7 +16,9 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 </div>
 #endif
 
+#if 0
 <div style="width:195px; text-align:center; float: right;" ><iframe  src="http://www.eventbrite.com/countdown-widget?eid=4309668334" frameborder="0" height="416" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/ecount">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://http://inbyggdlinuxhacking.eventbrite.com?ref=ecount">Hacka inbyggd Linux med FOSS-STHLM!</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=ecount">Eventbrite</a></div></div>
+#endif
 
 <div class="frontbox">
 SUBTITLE(foss-sthlm)
@@ -64,8 +66,10 @@ SUBTITLE(Tidigare träffar)
 <p>
  8 - <a href="jan2012.html">25:e januari 2012</a>
 <p>
- 9 - <a href="sep2012.html">måndagen den 10:e september</a> träff och
+ 9 - <a href="sep2012.html">måndagen den 10:e september 2012</a> träff och
 snack över en öl
+<p>
+ 10 - <a href="okt2012.html">inbyggd Linux hack</a>, 20 oktober 2012
 
 </div>
 
@@ -202,6 +206,7 @@ SUBTITLE(Sponsorer)
 <a href="http://www.cag.se/">CAG</a>,
 <a href="http://www.combitech.se/">Combitech</a>,
 <a href="http://www.dsv.su.se/">DSV</a>,
+<a href="http://www.enea.com/">Enea</a>,
 <a href="http://www.haxx.se/">Haxx</a>,
 <a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
 <a href="http://www.msc.se/">MSC</a>,
