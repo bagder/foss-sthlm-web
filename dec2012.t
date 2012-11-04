@@ -16,7 +16,7 @@ BOXTOP
 <tr><td><b>Klockan:</b></td><td> 16:00 - 20:00</td></tr>
 <tr><td><b>Var:</b></td><td><b> .SE:s lokaler</td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
-<tr><td><b>Anmälan:</b></td><td> [kommer] </td></tr>
+<tr><td><b>Anmälan:</b></td><td> <a href="http://www.eventbrite.com/event/4760096577">på eventbrite</a> </td></tr>
 
 
 </table>
@@ -45,7 +45,8 @@ kanske 30 minuter!
 
 </div>
 
-<P> Antalet platser är begränsat till 75 pers pga lokalens storlek.
+<P><b> Antalet platser är begränsat till 75 personer pga lokalens
+storlek.</b>
 
 
 BOXBOT
