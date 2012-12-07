@@ -212,6 +212,7 @@ SUBTITLE(Sponsorer)
 <a href="http://www.dsv.su.se/">DSV</a>,
 <a href="http://www.enea.com/">Enea</a>,
 <a href="http://www.haxx.se/">Haxx</a>,
+<a href="http://www.init.se/>Init</a>,
 <a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
 <a href="http://www.msc.se/">MSC</a>,
 <a href="http://www.nohup.se/">Nohup</a>,

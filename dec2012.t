@@ -31,7 +31,9 @@ Vi gillar .SE
 
 <p>
 Efter sedvanliga föreläsningar beger de som vill sig till en närliggande pub
-för förfriskningar.
+för förfriskningar: <a href="http://www.babajan.com/">Babajan</a>!
+
+<p> <a href="http://www.init.se/">Init AB</a> sponsrar mackor och dricka till alla besökare!
 
 <div style="border: 6px ridge #c0c0c0; padding: 0px 10px 10px 10px; margin:
 10px 10px 10px 10px; width: 40em; align: center; background-color: #e0e0e0;
@@ -39,9 +41,19 @@ float: left; ">
 
 <h1>Program</h1>
 
-Kommer senare, men en typ 4-5 föredrag borde vi ju få in. Maila oss
-<b>gärna</b> vad du vill berätta om för oss andra under 20 eller
-kanske 30 minuter!
+<p>
+16.15           Information från FOSS-Sthlm och annat        Claes & Daniel
+
+<p>
+16.25           WebRTC och Kamailo Olle Johansson
+<p>
+17.20           Presentation av .SE om något          Ulrich Wisser
+<p>
+17.45           Break    
+<p>
+18.05           Piratpartiets politik kring FOSS och uc_bitcoin         Erik Lönroth 
+<p>
+19.00           Yocto   Björn Stenberg
 
 </div>
 
