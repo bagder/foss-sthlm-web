@@ -72,6 +72,8 @@ SUBTITLE(Tidigare träffar)
 snack över en öl
 <p>
  10 - <a href="okt2012.html">inbyggd Linux hack</a>, 20 oktober 2012
+<p>
+ 11 - <a href="dec2012.html">meetup hos .SE</a>, 5 december 2012
 
 </div>
 
