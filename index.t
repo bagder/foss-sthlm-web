@@ -6,21 +6,22 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 0
+#if 1
 <div class="alert">
 <b>Kommande evenemang:</b><p>
 
 <p>
-<a href="dec2012.html">Onsdagen den 5:e december</a> blir det en binge föredrag!
+<a href="mar2013.html">Tisdagen den 5:e mars</a> går möte 12 av stapeln!
 
 </div>
 #endif
 
+#if 0
 <div class="alert">
 <p>
 foss-sthlm fyller 3 &aring;r den 7:e december!
 </div>
-
+#endif
 
 <div class="frontbox">
 SUBTITLE(foss-sthlm)
@@ -40,41 +41,40 @@ utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. F
 Vi ser gärna att vi får så många olika projekt och grupperingar
 representerade och intresserade!
 
-<p> Vi är över 330 pers på mailinglistan, men se gärna till att
+<p> Vi är över 340 pers på mailinglistan, men se gärna till att
 informera era egna kontakter om vår existens så att vi når ut
 bättre.
 
-<p>
- foss-sthlm startades av Claes och Daniel den 7:e dec 2009 
-
-BOXBOT
+</div>
 
 <div class="frontbox">
-SUBTITLE(Tidigare träffar)
-<p>
- <a href="/mote1.html">möte #1</a> - 24:e februari 2010
-<p>
- <a href="/mote2.html">möte #2</a> - 19:e maj 2010
-<p>
- <a href="/mote3.html">möte #3 / Communityhack II</a> - 4-5:e sep 2010
-<p>
- <a href="mote4.html">möte #4</a> - 26 oktober 2010
-<p>
- <a href="mote5.html">möte #5</a> - 24:e februari 2011
-<p>
- <a href="mote6.html">möte #6</a> - 24:e maj 2011
-<p>
- 7 - <a href="nov2011.html">RMS-snack om Free Software</a> - 8 nov 2011
-<p>
- 8 - <a href="jan2012.html">25:e januari 2012</a>
-<p>
- 9 - <a href="sep2012.html">måndagen den 10:e september 2012</a> träff och
-snack över en öl
-<p>
- 10 - <a href="okt2012.html">inbyggd Linux hack</a>, 20 oktober 2012
-<p>
- 11 - <a href="dec2012.html">meetup hos .SE</a>, 5 december 2012
 
+SUBTITLE(Sponsorer)
+<p>
+ Följande företag har varit med och sponsrat foss-sthlm-evenemang:
+
+<p>
+<a href="http://www.academicwork.se/">Academic Work</a>,
+<a href="http://www.cag.se/">CAG</a>,
+<a href="http://www.combitech.se/">Combitech</a>,
+<a href="http://www.dsv.su.se/">DSV</a>,
+<a href="http://www.enea.com/">Enea</a>,
+<a href="http://www.haxx.se/">Haxx</a>,
+<a href="http://www.init.se/">Init</a>,
+<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
+<a href="http://www.msc.se/">MSC</a>,
+<a href="http://www.nohup.se/">Nohup</a>,
+<a href="http://www.iis.se/">.SE</a>,
+<a href="http://www.southpole.com/">South Pole</a>,
+<a href="http://www.spotify.com/">Spotify</a>,
+<a href="http://www.dqc.se/">DQC</a>,
+<a href="http://omegapoint.se/">Omegapoint</a>
+</div>
+
+<div class="frontbox">
+SUBTITLE(IRC)
+<p>
+ Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
 </div>
 
 <div class="frontbox">
@@ -97,12 +97,6 @@ berättar hur vi hanterar namn och email-adresser!
 <p>
  Admin för listan och servern här är daniel at haxx punkt se, men använd helst
  mailinglistan.
-</div>
-
-<div class="frontbox">
-SUBTITLE(IRC)
-<p>
- Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
 </div>
 
 <div class="frontbox">
@@ -197,30 +191,6 @@ och många fler!
 </ul>
 <p>
 <small> Skicka länkar till projekten så kommer de in...</small>
-</div>
-
-<div class="frontbox">
-
-SUBTITLE(Sponsorer)
-<p>
- Följande företag har varit med och sponsrat foss-sthlm-evenemang:
-
-<p>
-<a href="http://www.academicwork.se/">Academic Work</a>,
-<a href="http://www.cag.se/">CAG</a>,
-<a href="http://www.combitech.se/">Combitech</a>,
-<a href="http://www.dsv.su.se/">DSV</a>,
-<a href="http://www.enea.com/">Enea</a>,
-<a href="http://www.haxx.se/">Haxx</a>,
-<a href="http://www.init.se/">Init</a>,
-<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
-<a href="http://www.msc.se/">MSC</a>,
-<a href="http://www.nohup.se/">Nohup</a>,
-<a href="http://www.iis.se/">.SE</a>,
-<a href="http://www.southpole.com/">South Pole</a>,
-<a href="http://www.spotify.com/">Spotify</a>,
-<a href="http://www.dqc.se/">DQC</a>,
-<a href="http://omegapoint.se/">Omegapoint</a>
 </div>
 
 #include "footer.t"
