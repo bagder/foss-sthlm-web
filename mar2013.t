@@ -64,8 +64,14 @@ oVirt is and what it entails.
 team.  Alexander is a Infrastructure consultant working for EnjoyIT Sweden AB,
 focusing on system administration on Unix / Linux.</i>
 
-<h2>[väljer mellan några olika alternativ]</h2>
+<h2>Valgrind och profilering</h2>
 med Oskar Holmlund
+<p>
+En introduktion till verktyg för att leta fel i kod.
+<p><i>
+Jag är konsult på Combitech inom systemutveckling på BSD/UNIX/GnuLinux
+plattform.
+</i>
 
 <h2>Gentoo hardened, vad är det och vad har hänt under året?</h2>
 med Daniel Kuehn
