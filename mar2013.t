@@ -17,7 +17,7 @@ BOXTOP
 <tr><td><b>Var:</b></td><td><b> <a href="/dsv.html">DSV</a> i Kista</td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
 <tr><td><b>Anmälan:</b></td><td> <a href="http://www.eventbrite.com/event/5372154258">foss-sthlm #12 på eventbrite</a> </td></tr>
-<tr><td><b>Anmälda:</b></td><td>30+</td></tr>
+<tr><td><b>Anmälda:</b></td><td>40+</td></tr>
 
 </table>
 
@@ -26,8 +26,8 @@ BOXTOP
 
 <a href="http://www.mosync.com/"><img border="0" src="mosync-small.jpg"></a><p>
 
-MoSync är en utvecklingsmiljö för mobilappar baserad på c/c++ och html5,
-som gör utveckling mot flera plattformar ska bli enklare och
+MoSync är en utvecklingsmiljö för mobilappar baserad på c/c++ och
+html5, som gör utveckling mot flera plattformar enklare och
 kostnadseffektivare
 
 </td>
@@ -47,24 +47,48 @@ för förfriskningar: ...
 float: left; ">
 
 <h1>Program</h1>
+(alla presentationer hålls på svenska)
 
-<p>
-<b>16:00</b> Information från FOSS-Sthlm och annat
+<h2>16:00</b> Välkomna, ta en macka och sitt ner</h2>
 <p>
 med Claes & Daniel
 
-<h2>oVirt </h2>
+<h2>oVirt - en introduktion</h2>
 med Alexander Rydekull
+<p>
+An introduction to oVirt, the first truly open and comprehensive data
+centre virtualization management initiative. A brief presentation of what
+oVirt is and what it entails.
+
+<p><i> Presented by Alexander Rydekull, member of the oVirt infrastructure
+team.  Alexander is a Infrastructure consultant working for EnjoyIT Sweden AB,
+focusing on system administration on Unix / Linux.</i>
 
 <h2>[väljer mellan några olika alternativ]</h2>
 med Oskar Holmlund
 
-<h2>Gentoo Hardened</h2>
-med lejonet
+<h2>Gentoo hardened, vad är det och vad har hänt under året?</h2>
+med Daniel Kuehn
+
+<p> jag tänkte lite lätt förklara vad gentoo hardened är, hur det
+fungerar version ganska light (även om slidsen kommer vara mer
+comprehensive) och vad vi lyckats åstakomma under året som varit i
+hardened communityn.
+
+<p> <i> Jag heter då Daniel Kuehn och är 23 år, men jag har pillat
+med teknik sen jag var 3 och med datorer sen jag var 7.  Jag pluggar för
+närvarande på KTH Haninge, Datateknik och är halvvägs genom
+utbildningen, vid sidan av studierna så driver jag eget företag sen 5
+år tillbaka och håller på mycket med hårdvara och testning inom
+Gentoo Hardened projektet.</i>
+
+
+<h2>FOSS enligt Piratpartiet</h2>
+med Erik Lönroth
 
 <h2>curl and new technologies </h2>
 <p>
-med Daniel Stenberg.
+med Daniel Stenberg
 <p>
 curl and libcurl was started in 1998 and is currently possibly used by more
 than 500 million users regularly. It is widely considered to be the defacto
