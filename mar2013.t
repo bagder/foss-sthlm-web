@@ -1,18 +1,18 @@
 #include "doctype.t"
 #include "setup.t"
-HEAD(foss-sthlm - 5:e mars 2012)
+HEAD(foss-sthlm - 5:e mars 2013)
 #include "body.t"
 
 #include "menu.t"
 
-TITLE(foss-sthlm - 5:e mars 2012)
+TITLE(foss-sthlm - 5:e mars 2013)
 BOXTOP
 <p>
 
 <table width="100%"><tr valign="top">
 <td>
 <table>
-<tr><td><b>Datum:</b></td><td> tisdag 5:e mars 2012 </td></tr>
+<tr><td><b>Datum:</b></td><td> tisdag 5:e mars 2013 </td></tr>
 <tr><td><b>Klockan:</b></td><td> 16:00 - 20:00</td></tr>
 <tr><td><b>Var:</b></td><td><b> <a href="/dsv.html">DSV</a> i Kista</td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
