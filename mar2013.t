@@ -17,7 +17,7 @@ BOXTOP
 <tr><td><b>Var:</b></td><td><b> <a href="/dsv.html">DSV</a> i Kista</td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
 <tr><td><b>Anmälan:</b></td><td> <a href="http://www.eventbrite.com/event/5372154258">foss-sthlm #12 på eventbrite</a> </td></tr>
-<tr><td><b>Anmälda:</b></td><td>40+</td></tr>
+<tr><td><b>Anmälda:</b></td><td>60+</td></tr>
 
 </table>
 
@@ -91,6 +91,11 @@ Gentoo Hardened projektet.</i>
 
 <h2>FOSS enligt Piratpartiet</h2>
 med Erik Lönroth
+
+<p><i>
+"Piratpartiet i Stockholms län har antagit ett ambitiöst program 2012 om
+öppen källkod. Partiet låtit sig påverkas av just FOSS-Stockholm i arbetet
+med att ta fram innehållet som kommer presenteras i forumet."</i>
 
 <h2>curl and new technologies </h2>
 <p>
