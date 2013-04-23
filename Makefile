@@ -8,7 +8,7 @@ all:	index.html mailtop.html mailbot.html indextop.html indexbot.html \
 	anmal.html dsv.html mote3.html mote4.html mote2-dok.html \
 	mote5.html mote6.html om.html namnpolicy.html nov2011.html \
 	listor.html jan2012.html sep2012.html okt2012.html dec2012.html \
-	mar2013.html historia.html
+	mar2013.html historia.html jun2013.html
 
 index.html: index.t $(MAINPARTS)
 	$(ACTION)
@@ -68,6 +68,9 @@ dec2012.html: dec2012.t $(MAINPARTS)
 	$(ACTION)
 
 mar2013.html: mar2013.t $(MAINPARTS)
+	$(ACTION)
+
+jun2013.html: jun2013.t $(MAINPARTS)
 	$(ACTION)
 
 mote1-dok.html: mote1-dok.t $(MAINPARTS)

@@ -11,7 +11,7 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 <b>Kommande evenemang:</b><p>
 
 <p>
-<a href="mar2013.html">Tisdagen den 5:e mars</a> går möte 12 av stapeln!
+Embedded-Linux-hacking-dag, <a href="jun2013.html">Lördagen den 1:e juni</a> 
 
 </div>
 #endif
@@ -46,6 +46,12 @@ informera era egna kontakter om vår existens så att vi når ut
 bättre.
 
 </div>
+
+#if 1
+<div class="frontbox">
+#include "eventbrite.t"
+</div>
+#endif
 
 <div class="frontbox">
 
