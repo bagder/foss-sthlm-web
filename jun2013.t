@@ -122,11 +122,25 @@ sågs, vad ska du hacka på idag då?
 
 </td></tr>
 
-<tr valign="top"><td><b>11:30</b></td><td> Föredrag #1: [titel] av [person]
+<tr valign="top"><td><b>11:30</b></td><td> Föredrag #1: "Aliasing in
+C99/C++11 and data transfer between hard real-time systems on
+   modern RISC processors" med Erik Alapää
 <p>
-[längre beskrivning av snack]
+<ul>
+<li> A short recap of what aliasing is and what the standards say
+<li> Transferring binary data between systems efficiently (contrasted with e.g
+XML and and other slower/higher-bandwidth methods)
+<li> Bitfields and portability
+<li> Endianness
+<li> Disabling aliasing optimizations in gcc
+<li> Linux and BSD kernels
+<li> and more...
 <p>
-[vem är personen]
+<i>
+Erik Alapää är it-konsult och mjukvaruarkitekt. Han är teknisk fysiker i
+grunden, följt av forskarutbildning i matematik på Chalmers. Han började
+som utvecklare av hårda, felsäkra realtidssystem på ABB för 20 år sedan,
+ch har varit med i  Linux/Unix och FOSS-världen sedan 1994.<(i>
 
 </td></tr>
 
@@ -140,11 +154,11 @@ kompetens, hjärna och snabbhet är bra egenskaper där... Pris till vinnaren!
 <tr valign="top"><td> <b>14:00</b></td><td> tillbaks och få något gjort...
 </td></tr>
 
-<tr valign="top"><td><b>15:00</b></td><td> Föredrag #2: [titel] av [person]
+<tr valign="top"><td><b>15:00</b></td><td> Föredrag #2: "Xilinx Zynq, SoC and FPGA combined" med Magnus Lindblad
 <p>
-[längre beskrivning av snack]
+[längre beskrivning av snack kommer]
 <p>
-[vem är personen]
+[beskrivning av Magnus kommer]
 
 
 </td></tr>
@@ -152,11 +166,25 @@ kompetens, hjärna och snabbhet är bra egenskaper där... Pris till vinnaren!
 <tr valign="top"><td><b>15:45</b></td><td> fikapaus, och tillbaks till verkligheten
 </td></tr>
 
-<tr valign="top"><td><b>17:00</b></td><td> Föredrag #3: [titel] av [person]
+<tr valign="top"><td><b>17:00</b></td><td> Föredrag #3: "Open source flying" med Björn Stenberg
 <p>
 [längre beskrivning av snack]
 <p>
 [vem är personen]
+
+</td></tr>
+
+<tr valign="top"><td><b>18:00</b></td><td> Föredrag #4: "Real-time Linux challenges" med Daniel Stenberg
+<p>
+
+Real-time och low latency är något som Linux-världen alltid haft
+svårt för och det har skapats olika sätt att bemöta
+problemen. Låt oss se hur kartan ser ut idag, vad man gör åt det och
+hur lösningarna skiljer sig. Kanske något om framtiden också...
+
+<p><i>
+Daniel Stenberg är produkt-ansvarig för Enea Linux, har knackat Linux i
+många år och bidrar mycket och ofta i ett flertal opensource-projekt.</i>
 
 </td></tr>
 
