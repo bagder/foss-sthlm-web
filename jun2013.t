@@ -74,13 +74,13 @@ komma åt den.
  känsla" över evenemanget, så begränsar vi deltagarantalet till 40
  personer.
 
-<h2>Hårdvara</h2>
+<h2>Giveaways</h2>
 <p>
 
  Vid <a href="okt2012.html">förra tillfället</a> delade vi ut Raspberry
 Pi till samtliga deltagare. Vi har ingen större lust att upprepa precis det
-den här gången utan ämnar variera oss. Exakt vad eller hur det blir
-är inte bestämt än.
+den här gången utan ämnar variera oss. Den här gången blir det
+två saker, men vad det är blir en överraskning till de som kommer!
 
 <h2>Att ta med</h2>
 
@@ -140,7 +140,7 @@ XML and and other slower/higher-bandwidth methods)
 Erik Alapää är it-konsult och mjukvaruarkitekt. Han är teknisk fysiker i
 grunden, följt av forskarutbildning i matematik på Chalmers. Han började
 som utvecklare av hårda, felsäkra realtidssystem på ABB för 20 år sedan,
-ch har varit med i  Linux/Unix och FOSS-världen sedan 1994.<(i>
+ch har varit med i  Linux/Unix och FOSS-världen sedan 1994.</i>
 
 </td></tr>
 
@@ -148,8 +148,8 @@ ch har varit med i  Linux/Unix och FOSS-världen sedan 1994.<(i>
 </td></tr>
 
 <tr valign="top"><td> <b>13:00</b></td><td> <b>tävling</b> - kunskap,
-kompetens, hjärna och snabbhet är bra egenskaper där... Pris till vinnaren!
-</td></tr>
+kompetens, hjärna och snabbhet är bra egenskaper där... Ett riktigt
+fint pris utlovas till vinnaren!  </td></tr>
 
 <tr valign="top"><td> <b>14:00</b></td><td> tillbaks och få något gjort...
 </td></tr>
@@ -170,7 +170,7 @@ kompetens, hjärna och snabbhet är bra egenskaper där... Pris till vinnaren!
 <p>
 [längre beskrivning av snack]
 <p>
-[vem är personen]
+[beskrivning av Björn kommer, om ni nu verkligen behöver det...]
 
 </td></tr>
 
@@ -182,9 +182,9 @@ svårt för och det har skapats olika sätt att bemöta
 problemen. Låt oss se hur kartan ser ut idag, vad man gör åt det och
 hur lösningarna skiljer sig. Kanske något om framtiden också...
 
-<p><i>
-Daniel Stenberg är produkt-ansvarig för Enea Linux, har knackat Linux i
-många år och bidrar mycket och ofta i ett flertal opensource-projekt.</i>
+<p><i> Daniel Stenberg är produkt-ansvarig för Enea Linux, har knackat
+Linux i många år och bidrar mycket och ofta i ett flertal
+opensource-projekt. Ja, ni känner ju mig vid det här laget! </i>
 
 </td></tr>
 
