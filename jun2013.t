@@ -122,7 +122,34 @@ sågs, vad ska du hacka på idag då?
 
 </td></tr>
 
-<tr valign="top"><td><b>11:30</b></td><td> Föredrag #1: "Aliasing in
+<tr valign="top"><td><b>11:00</b></td><td> Föredrag: "Xilinx Zynq, en fullt programerbar hård- och mjukvaruplattform"
+ med Magnus Lindblad
+
+<p> <i> Magnus Lindblad arbetar sedan 15 år på Xilinx i Kista med
+teknisk support och försäljning med en lång erfarenhet av FPGA.</i>
+
+</td></tr>
+
+<tr valign="top"><td><b>12:00</b></td><td> en enklare lunch erbjuds av Enea
+</td></tr>
+
+<tr valign="top"><td> <b>13:00</b></td><td> <b>tävling</b> - kunskap,
+kompetens, hjärna och snabbhet är bra egenskaper där... Ett riktigt
+fint pris utlovas till vinnaren!  </td></tr>
+
+<tr valign="top"><td> <b>14:00</b></td><td> Föredrag "Open source flying" med Björn Stenberg
+<p>
+ Ett radiostyrt flygplan, sju stycken Arduinos och Open source i alla.
+
+<p><i>Björn är konsult på Haxx AB och har jobbat med inbyggda system
+i mer än två decennier.</i>
+
+</td></tr>
+
+<tr valign="top"><td><b>16:00</b></td><td> fikapaus, och tillbaks till verkligheten
+</td></tr>
+
+<tr valign="top"><td><b>17:00</b></td><td> Föredrag: "Aliasing in
 C99/C++11 and data transfer between hard real-time systems on
    modern RISC processors" med Erik Alapää
 <p>
@@ -135,46 +162,17 @@ XML and and other slower/higher-bandwidth methods)
 <li> Disabling aliasing optimizations in gcc
 <li> Linux and BSD kernels
 <li> and more...
+</ul>
 <p>
 <i>
 Erik Alapää är it-konsult och mjukvaruarkitekt. Han är teknisk fysiker i
 grunden, följt av forskarutbildning i matematik på Chalmers. Han började
-som utvecklare av hårda, felsäkra realtidssystem på ABB för 20 år sedan,
-ch har varit med i  Linux/Unix och FOSS-världen sedan 1994.</i>
+som utvecklare av hårda, felsäkra realtidssystem på ABB för 20 år sedan
+och har varit med i  Linux/Unix och FOSS-världen sedan 1994.</i>
 
 </td></tr>
 
-<tr valign="top"><td><b>12:00</b></td><td> en enklare lunch erbjuds av Enea
-</td></tr>
-
-<tr valign="top"><td> <b>13:00</b></td><td> <b>tävling</b> - kunskap,
-kompetens, hjärna och snabbhet är bra egenskaper där... Ett riktigt
-fint pris utlovas till vinnaren!  </td></tr>
-
-<tr valign="top"><td> <b>14:00</b></td><td> tillbaks och få något gjort...
-</td></tr>
-
-<tr valign="top"><td><b>15:00</b></td><td> Föredrag #2: "Xilinx Zynq, SoC and FPGA combined" med Magnus Lindblad
-<p>
-[längre beskrivning av snack kommer]
-<p>
-[beskrivning av Magnus kommer]
-
-
-</td></tr>
-
-<tr valign="top"><td><b>15:45</b></td><td> fikapaus, och tillbaks till verkligheten
-</td></tr>
-
-<tr valign="top"><td><b>17:00</b></td><td> Föredrag #3: "Open source flying" med Björn Stenberg
-<p>
-[längre beskrivning av snack]
-<p>
-[beskrivning av Björn kommer, om ni nu verkligen behöver det...]
-
-</td></tr>
-
-<tr valign="top"><td><b>18:00</b></td><td> Föredrag #4: "Real-time Linux challenges" med Daniel Stenberg
+<tr valign="top"><td><b>18:00</b></td><td> Föredrag: "Real-time Linux challenges" med Daniel Stenberg
 <p>
 
 Real-time och low latency är något som Linux-världen alltid haft
