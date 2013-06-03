@@ -6,7 +6,7 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 1
+#if 0
 <div class="alert">
 <b>Kommande evenemang:</b><p>
 
@@ -41,13 +41,13 @@ utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. F
 Vi ser gärna att vi får så många olika projekt och grupperingar
 representerade och intresserade!
 
-<p> Vi är över 340 pers på mailinglistan, men se gärna till att
+<p> Vi är över 350 pers på mailinglistan, men se gärna till att
 informera era egna kontakter om vår existens så att vi når ut
 bättre.
 
 </div>
 
-#if 1
+#if 0
 <div class="frontbox">
 #include "eventbrite.t"
 </div>
