@@ -139,7 +139,8 @@ fint pris utlovas till vinnaren!  </td></tr>
 
 <tr valign="top"><td> <b>14:00</b></td><td> Föredrag "Open source flying" med Björn Stenberg
 <p>
- Ett radiostyrt flygplan, sju stycken Arduinos och Open source i alla.
+ Björn berättar om sitt radiostyrda flygplan som styrs över
+videolänk med hjälp av sju arduinos.
 
 <p><i>Björn är konsult på Haxx AB och har jobbat med inbyggda system
 i mer än två decennier.</i>
