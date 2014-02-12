@@ -6,12 +6,12 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 0
+#if 1
 <div class="alert">
 <b>Kommande evenemang:</b><p>
 
 <p>
-Embedded-Linux-hacking-dag, <a href="jun2013.html">Lördagen den 1:e juni</a> 
+"Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april</a> 
 
 </div>
 #endif
