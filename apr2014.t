@@ -64,17 +64,7 @@ open source i 20 år.</i>
 <p>
  En liten bensträckare. Gå på toa. Rotera luften i lokalen. Pusha några commits.
 
-<h2>18:00 systemd</h2>
-<p>
- systemd - wtf? Ny PID 1, hur och varför?
-
-<p><i> <a href="http://www.nohup.se/">Lars Delhage</a>, Nohup AB. Free
-Software-konsult och utbildare. Mest jobbat med
-infrastruktur/systemadministration men tycker det mesta är kul och
-intressant så länge det är fri programvara. Försöker bli
-programmerare på gamla dar.</i>
-
-<h2>18:40 MeraKrypto</h2>
+<h2>18:00 MeraKrypto</h2>
 <p>
 Internet byggdes av ett gäng tekniker om litade på varandra. Administrerade man ett
 Unix-system kopplat till nätet så var man trovärdig. Dagens Internet är något större och
@@ -84,13 +74,23 @@ dyrare att avlyssna och fundera på hur vi ska genomföra en förändring till en sä
 plattform. Alla nättekniker, systemadministratörer och utvecklare måste tänka om. Vi
 behöver #MeraKrypto på nätet. Hur ska vi göra?
 
-<p><i>
-Olle E. Johansson har jobbat med Internet-teknik sedan 1989 och kan väl
+<p><i> <a href="http://www.linkedin.com/in/ollejohansson">Olle
+E. Johansson</a> har jobbat med Internet-teknik sedan 1989 och kan väl
 räknas som en av dom som ställt till det. Senaste tio åren har han
 jobbat med IP-telefoni, ett område som nästan totalt saknar insikt om
 behov av säkerhet. På dagarna bygger han stora IP-telefonisystem
 såväl som små. Han är aktiv i IETF, ISOC och i Open
 Source-projekten Asterisk och Kamailio.  </i>
+
+<h2>18:20 systemd</h2>
+<p>
+ systemd - wtf? Ny PID 1, hur och varför?
+
+<p><i> <a href="http://www.nohup.se/">Lars Delhage</a>, Nohup AB. Free
+Software-konsult och utbildare. Mest jobbat med
+infrastruktur/systemadministration men tycker det mesta är kul och
+intressant så länge det är fri programvara. Försöker bli
+programmerare på gamla dar.</i>
 
 <h2>19:00 yadayada </h2>
 
