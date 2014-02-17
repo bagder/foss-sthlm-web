@@ -58,7 +58,9 @@ open source i 20 år.</i>
 
 <h2>17:00 Open Streetmap</h2>
 <p>
- med <a href="http://bjorn.haxx.se/">Björn Stenberg</a>
+Open Streetmap - Vad? Varför? Hur?
+<p>
+ <i><a href="http://bjorn.haxx.se/">Björn Stenberg</a> är konsult på Haxx och jobbar med inbyggd linux på dagarna.</i>
 
 <h2>17:45 paus</h2>
 <p>
