@@ -44,7 +44,13 @@ mer FOSS snart!
 <p>
  Ta en macka. Sitt ner.
 
-<h2>16:10 HTTP2</h2>
+<h2>16:10 Open Streetmap</h2>
+<p>
+Open Streetmap - Vad? Varför? Hur?
+<p>
+ <i><a href="http://bjorn.haxx.se/">Björn Stenberg</a> är konsult på Haxx och jobbar med inbyggd linux på dagarna.</i>
+
+<h2>17:00 HTTP2</h2>
 <p>
  HTTP är protkollet med stort P på internet idag. Nu arbetas det
 intensivt på att ta fram en uppdatering eller rent av en uppföljare till
@@ -56,19 +62,13 @@ http2-support?
 nätverkshacker och protokollgeek på Mozilla och har jobbat med och inom
 open source i 20 år.</i>
 
-<h2>17:00 Open Streetmap</h2>
-<p>
-Open Streetmap - Vad? Varför? Hur?
-<p>
- <i><a href="http://bjorn.haxx.se/">Björn Stenberg</a> är konsult på Haxx och jobbar med inbyggd linux på dagarna.</i>
-
-<h2>17:45 paus</h2>
+<h2>17:50 paus</h2>
 <p>
  En liten bensträckare. Gå på toa. Rotera luften i lokalen. Pusha några commits.
 
-<h2>18:00 MeraKrypto</h2>
+<h2>18:10 MeraKrypto</h2>
 <p>
-Internet byggdes av ett gäng tekniker om litade på varandra. Administrerade man ett
+Internet byggdes av ett gäng tekniker som litade på varandra. Administrerade man ett
 Unix-system kopplat till nätet så var man trovärdig. Dagens Internet är något större och
 liknar samhället mera. Under senaste året har vi upptäckt att mycket av det gamla
 förtroendet har missbrukats, att vi måste förändra tekniken så att det blir svårare och
@@ -84,7 +84,23 @@ behov av säkerhet. På dagarna bygger han stora IP-telefonisystem
 såväl som små. Han är aktiv i IETF, ISOC och i Open
 Source-projekten Asterisk och Kamailio.  </i>
 
-<h2>18:20 systemd</h2>
+<h2>18:30 Att fjärrstyra en spretig myndighet
+- en spännande implementation av puppet </h2>
+<p>
+Med programvaran Puppet från företaget Puppet Labs' IT automation kan man skapa en
+effektiv drift och underhåll i en IT-miljö med många datorer. Med Puppet skapar man
+beskrivningar / förlagor hur olika system och programvaror skall vara konfigurerade för
+att sedan över tiden upprätthålla den statusen. Anders Wallenquist berättar om en
+implementation av Puppet på en statlig myndighet som i vissa stycken är lite ovanlig (med
+puppet-mått mätt), lite om bakgrunden, hur det gick till och vilka nyttiga erfarenheter
+man kan ta med sig från projektet. Puppet är fri programvara som trivs bäst i
+unix-liknande miljöer, men fungerar också väl med exempelvis Windows-noder.
+
+<p> <i><a href="http://vertel.se/">Anders Wallenquist</a>, Vertel AB, är
+konsult inom fri programvara och har arbetat med dessa frågor sedan
+början av åttiotalet.</i>
+
+<h2>19:15 systemd</h2>
 <p>
  systemd - wtf? Ny PID 1, hur och varför?
 
@@ -93,8 +109,6 @@ Software-konsult och utbildare. Mest jobbat med
 infrastruktur/systemadministration men tycker det mesta är kul och
 intressant så länge det är fri programvara. Försöker bli
 programmerare på gamla dar.</i>
-
-<h2>19:00 yadayada </h2>
 
 <h2>20:00 Schlutt</h2>
 <p>
