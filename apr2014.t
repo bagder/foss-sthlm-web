@@ -16,7 +16,7 @@ TITLE(foss-sthlm - 1:a april 2014)
 <tr><td><b>Klockan:</b></td><td> 16:00 - 20:00</td></tr>
 <tr><td><b>Var:</b></td><td> <b><a href="dsv.html">DSV</a></b> (i Kista) </td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
-<tr><td><b>Anmälan:</b></td><td> <a href="http://www.eventbrite.com/e/foss-sthlm-april-2014-registrering-10599325869">på eventbrite</a> över 60 pers redan anmälda!</td></tr>
+<tr><td><b>Anmälan:</b></td><td> <a href="http://www.eventbrite.com/e/foss-sthlm-april-2014-registrering-10599325869">på eventbrite</a> över 75 pers redan anmälda!</td></tr>
 
 </table>
 
@@ -38,7 +38,7 @@ mer FOSS snart!
 
 <h1>Föredragseftermiddag</h1>
 <p>
- Schemat är inte spikat men ungefär såhär kan det bli. Det kan komma att ändras.
+ Schemat kan komma att ändras något. Föredragen kommer hållas på svenska.
 
 <h2>16:00 Välkomna</h2>
 <p>
