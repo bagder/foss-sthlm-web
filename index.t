@@ -7,11 +7,15 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
 #if 1
+<p>
 <div class="alert">
 <b>Kommande evenemang:</b><p>
 
 <p>
 "Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april</a> 
+
+<p>
+"Vi hackar embedded 2014", <a href="maj2014.html">Lördagen den 24:e maj</a> 
 
 </div>
 #endif
@@ -61,6 +65,7 @@ SUBTITLE(Sponsorer)
 
 <p>
 <a href="http://www.academicwork.se/">Academic Work</a>,
+<a href="http://www.borderless.se/">Borderless</a>,
 <a href="http://www.cag.se/">CAG</a>,
 <a href="http://www.combitech.se/">Combitech</a>,
 <a href="http://www.dsv.su.se/">DSV</a>,
