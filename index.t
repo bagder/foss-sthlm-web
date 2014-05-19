@@ -12,9 +12,6 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 <b>Kommande evenemang:</b><p>
 
 <p>
-"Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april</a> 
-
-<p>
 "Vi hackar embedded 2014", <a href="maj2014.html">Lördagen den 24:e maj</a> 
 
 </div>

@@ -40,6 +40,9 @@ snack över en öl
  <a href="mar2013.html">föredrag på DSV</a>, 5 mars 2013
 <li>
  <a href="jun2013.html">inbyggd Linux hack #2</a>, 1 juni 2013
+<li>
+"Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april 2014</a> 
+
 </ol>
 
 BOXBOT

@@ -16,7 +16,7 @@ TITLE(Vi hackar embedded 2014 - 24:e maj)
 <tr><td><b>Klockan:</b></td><td> 10:00 - 20:00</td></tr>
 <tr><td><b>Var:</b></td><td><b> Enea AB:s lokaler, <a href="http://goo.gl/maps/cbR8d">Jan Stenbecks Torg 17 i Kista</a></td></tr>
 <tr><td><b>Avgift:</b></td><td>gratis inträde!</td></tr>
-<tr><td><b>Anmälan:</b></td><td> <a href="http://inbyggt2014.eventbrite.com/">eventbrite</a>, anmälan öppnar måndag den 24:e mars klockan 16:00 </td></tr>
+<tr><td><b>Anmälan:</b></td><td> <a href="http://inbyggt2014.eventbrite.com/">eventbrite</a>, alla platser tagna - nu finns väntelista! </td></tr>
 
 </table>
 
@@ -117,9 +117,19 @@ länge sen vi sågs, vad ska du hacka på idag då?
 
 </td></tr>
 
-<tr valign="top"><td><b>11:00</b></td><td> Föredrag: <b>Ett tekniskt snack 1 av en kunnig person </b>
+<tr valign="top"><td><b>11:00</b></td><td> Föredrag: <b>Trådlöst ULP (UltraLåg Strömförbrukning)</b> av Mats Karlsson.
 
 <p>
+Idag finns det flera sätt att bygga trådlösa nätverk med räckvidder på <= 100meter, fri
+sikt. Två av dessa, ANT och Blåtand 4.0 kommer att presenteras.
+<ul>
+<li> 10 000 foots översikt av standarderna för ANT och Blåtand 4.0 kontra konkurrerande
+standarder.
+<li> Olika tillämpningsområden
+<li> Fördelar/nackdelar
+<li> Implementering med Arduino och Raspberry Pi.
+<li> Bibliotek som finns, brist på API'er i Bluez och utmaningar med splittrad utveckling av bibliotek.
+</ul>
 
 </td></tr>
 
@@ -135,9 +145,19 @@ och fint pris utlovas till vinnaren!
 
  </td></tr>
 
-<tr valign="top"><td> <b>14:00</b></td><td> Föredrag: <b>Ett tekniskt snack 2 av en kunnig person </b>
+<tr valign="top"><td> <b>15:00</b></td><td> Workshop: <b>Hitta och välj hårdvara</b> ledd av Daniel Stenberg
+<p>
+ Hur hittar man rätt hårdvara för sitt fritidsprojekt? Hur gjorde de
+andra närvarande och hur lyckas man navigera genom djungeln av produkter
+som kommer i en strid ström? Hur gör du? Vilka sätt är rätt och fel? 
 
 <p>
+ Vi samlas och kommer att diskutera igenom en del punkter och försöka
+dela med oss om tips och sätt att göra och tänka på för att
+detta eller nästa projekt ska funka ännu bättre.
+
+<p>
+ Detta är inte ett föredrag utan mer en gruppdiskussion.
 
 </td></tr>
 
@@ -146,15 +166,11 @@ och fint pris utlovas till vinnaren!
 <p>
 </td></tr>
 
-<tr valign="top"><td><b>17:30</b></td><td> Föredrag: <b>Ett tekniskt snack 3 av en kunnig person </b>
-
+<tr valign="top"><td><b>18:00</b></td><td> Föredrag: <b>Lightning-talks / önskesnack</b>
 <p>
+ Fundera ut om du vill höra om något. Vill du dra en kortis om något?
 
 </td></tr>
-
-<tr valign="top"><td> <b>19:00</b></td><td> en slot för någon typ av
-presentation, demo eller annat skryt ifall någon nått fram till något
-att visa upp
 
 <p>
 
