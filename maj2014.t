@@ -41,6 +41,9 @@ Enea is listed on Nasdaq OMX Nordic Exchange Stockholm AB.
 </div>
 
 <p>
+  <big><a href="https://github.com/bagder/foss-sthlm-web/wiki/Vi-hackar-embedded-2014">Wikin för evenemanget</a></big>
+
+<p>
 
 <div style="border: 6px ridge #c0c0c0; padding: 0px 10px 10px 10px; margin:
 10px 10px 10px 10px; width: 70em; align: center; background-color: #e0e0e0;
