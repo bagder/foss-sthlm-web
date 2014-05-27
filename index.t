@@ -6,7 +6,7 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 1
+#if 0
 <p>
 <div class="alert">
 <b>Kommande evenemang:</b><p>

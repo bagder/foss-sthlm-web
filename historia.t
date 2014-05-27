@@ -42,6 +42,8 @@ snack över en öl
  <a href="jun2013.html">inbyggd Linux hack #2</a>, 1 juni 2013
 <li>
 "Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april 2014</a> 
+<li>
+"Vi hackar embedded 2014", <a href="maj2014.html">Lördagen den 24:e maj</a> 
 
 </ol>
 
