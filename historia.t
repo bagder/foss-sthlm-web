@@ -44,9 +44,12 @@ snack över en öl
 "Eftermiddagssnack", <a href="apr2014.html">Tisdagen den 1:a april 2014</a> 
 <li>
 "Vi hackar embedded 2014", <a href="maj2014.html">Lördagen den 24:e maj</a> 
+<li>
+ foss-sthlm 16 var hos Spotify den 4:e juni 2015
 
 </ol>
 
 BOXBOT
 
 #include "footer.t"
+Z
