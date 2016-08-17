@@ -16,7 +16,7 @@ BODY {
 }
 
 .title {
- background-color: #e0ffe0; 
+ background-color: #ffffff; 
  font-family: arial, helvetica, ariel, sans-serif;
  color: black;
  font-size: 150%;
@@ -24,7 +24,7 @@ BODY {
 }
 
 .subtitle {
- background-color: #e0ffe0; 
+ border-bottom: 1px solid black;
  font-family: arial, helvetica, ariel, sans-serif;
  color: #000000;
  font-size: 120%;

@@ -1,6 +1,6 @@
 #include "doctype.t"
 <head>
-<title>foss-stlm mailinglist-arkiv</title>
+<title>foss-sthlm mailinglist-arkiv</title>
 #include "css.t"
 </head>
 #include "body.t"
