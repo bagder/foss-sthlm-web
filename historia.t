@@ -52,4 +52,3 @@ snack över en öl
 BOXBOT
 
 #include "footer.t"
-Z
