@@ -8,7 +8,8 @@ all:	index.html mailtop.html mailbot.html indextop.html indexbot.html \
 	anmal.html dsv.html mote3.html mote4.html mote2-dok.html \
 	mote5.html mote6.html om.html namnpolicy.html nov2011.html \
 	listor.html jan2012.html sep2012.html okt2012.html dec2012.html \
-	mar2013.html historia.html jun2013.html q.html apr2014.html maj2014.html
+	mar2013.html historia.html jun2013.html q.html apr2014.html maj2014.html \
+	rms2016.html
 
 index.html: index.t $(MAINPARTS)
 	$(ACTION)
@@ -80,6 +81,9 @@ apr2014.html: apr2014.t $(MAINPARTS)
 	$(ACTION)
 
 maj2014.html: maj2014.t $(MAINPARTS)
+	$(ACTION)
+
+rms2016.html: rms2016.t $(MAINPARTS)
 	$(ACTION)
 
 mote1-dok.html: mote1-dok.t $(MAINPARTS)
