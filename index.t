@@ -172,6 +172,7 @@ köra en dragning.
  <a href="http://www.libssh2.org/">libssh2</a>,
  <a href="http://www.gnu.org/software/libtasn1/">Libtasn1</a>,
  lsh,
+ <a href="http://www.arbetsmyra.dyndns.org/nard/">Nard SDK</a>,
  nettle,
  <a href="http://www.opendnssec.org/">OpenDNSSEC</a>,
  perl/CPAN,
