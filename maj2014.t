@@ -76,8 +76,8 @@ infrastruktur för att komma åt den.
 
 <p> Detta är tredje gången vi kör i samma lokaler med liknande
 upplägg. Se gärna <a
-href="http://www.foss-sthlm.se/okt2012.html">2012</a> och <a
-href="http://www.foss-sthlm.se/jun2013.html">2013</a> års varianter för
+href="https://www.foss-sthlm.se/okt2012.html">2012</a> och <a
+href="https://www.foss-sthlm.se/jun2013.html">2013</a> års varianter för
 att få en smak av hur vi tänker oss detta.
 
 <h2>Att ta med, till exempel...</h2>

@@ -99,7 +99,7 @@ SUBTITLE(Oberoende och obundna)
 <p>
  Alla är välkomna!
 
-<p> <a href="http://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a>
+<p> <a href="https://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a>
 berättar hur vi hanterar namn och email-adresser!
 
 <p>
