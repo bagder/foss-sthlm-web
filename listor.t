@@ -17,7 +17,7 @@ SUBTITLE(foss-sthlm)
 
 <p>
  <a
-href="http://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">foss-sthlm</a>
+href="https://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">foss-sthlm</a>
 är vår huvud-mailinglista. På denna diskuterar vi foss- relaterade
 ämnen mellan himmel och jord. Vi använder även listan till att
 planera evenemang samt att ge feedback på tidigare grejor och erbjuda
@@ -32,7 +32,7 @@ varanda olika intressanta föredrag.
 SUBTITLE(foss-sthlm-announce)
 <p>
  <a
-href="//cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm-announce">foss-sthlm-announce</a>
+href="https://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm-announce">foss-sthlm-announce</a>
 är endast och enkom till för annonseringar av tillställningar/event
 som är relaterade till foss-sthlm. Det betyder förstås alla
 arrangemang som vi gör under foss-sthlm:s fana, men även enstaka
@@ -47,7 +47,7 @@ senare listan inte behöver joina -announce.
 SUBTITLE(foss-sthlm-jobb)
 <p>
  <a
-href="http://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm-jobb">foss-sthlm-jobb</a>
+href="https://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm-jobb">foss-sthlm-jobb</a>
 är för att posta jobb-förfrågningar till eller
 jobb-ansökningar. På den här listan är vi öppna för mer
 eller mindre direkta annonser från företag som vill ragga folk i
