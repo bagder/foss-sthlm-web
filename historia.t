@@ -46,6 +46,10 @@ snack över en öl
 "Vi hackar embedded 2014", <a href="maj2014.html">Lördagen den 24:e maj</a> 
 <li>
  foss-sthlm 16 var hos Spotify den 4:e juni 2015
+<li>
+ <a href="rms2016.html">RMS-snack</a> 25:e januari 2016 
+<li>
+ <a href="https://www.meetup.com/FOSS-Sthlm/events/234150288/">Tr&auml;ff #18</a>, 12 oktober 2016
 
 </ol>
 
