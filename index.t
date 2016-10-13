@@ -30,7 +30,7 @@ SUBTITLE(foss-sthlm)
 <p> Vi är folk intresserade av FOSS i Stockholms-området. En del bara
  som hobby, men många av oss även professionellt.  "FOSS" står
 förstås för <a
-href="http://en.wikipedia.org/wiki/Free_and_open_source_software">Free and
+href="https://en.wikipedia.org/wiki/Free_and_open_source_software">Free and
 Open Source Software</a>. Ibland även kallat FLOSS.
 
 <p> Vi jobbar på fler träffar med gelikar bland Free Software- och Open
@@ -61,22 +61,23 @@ SUBTITLE(Sponsorer)
  Följande företag har varit med och sponsrat foss-sthlm-evenemang:
 
 <p>
-<a href="http://www.academicwork.se/">Academic Work</a>,
+<a href="https://www.academicwork.se/">Academic Work</a>,
 <a href="http://www.borderless.se/">Borderless</a>,
-<a href="http://www.cag.se/">CAG</a>,
+<a href="https://www.cag.se/">CAG</a>,
 <a href="http://www.combitech.se/">Combitech</a>,
-<a href="http://www.dsv.su.se/">DSV</a>,
+<a href="https://www.dsv.su.se/">DSV</a>,
 <a href="http://www.enea.com/">Enea</a>,
-<a href="http://www.haxx.se/">Haxx</a>,
-<a href="http://www.init.se/">Init</a>,
+<a href="https://www.haxx.se/">Haxx</a>,
+<a href="https://www.init.se/">Init</a>,
 <a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
-<a href="http://www.msc.se/">MSC</a>,
-<a href="http://www.nohup.se/">Nohup</a>,
-<a href="http://www.iis.se/">.SE</a>,
-<a href="http://www.southpole.com/">South Pole</a>,
-<a href="http://www.spotify.com/">Spotify</a>,
-<a href="http://www.dqc.se/">DQC</a>,
-<a href="http://omegapoint.se/">Omegapoint</a>
+<a href="https://www.msc.se/">MSC</a>,
+<a href="https://www.nohup.se/">Nohup</a>,
+<a href="https://www.iis.se/">.SE</a>,
+<a href="https://www.southpole.se/">South Pole</a>,
+<a href="https://www.spotify.com/">Spotify</a>,
+<a href="https://www.dqc.se/">DQC</a>,
+<a href="https://omegapoint.se/">Omegapoint</a>,
+<a href="http://www.afconsult.com/">&Aring;F</a>
 </div>
 
 <div class="frontbox">
@@ -113,16 +114,16 @@ SUBTITLE(I samma anda)
  Andra sammanslutningar som delar mycket av våra värderingar och tankar:
 <p>
  <a href="http://geekgirlmeetup.com/">GeekGirl Meetup</a><br>
- <a href="http://www.owasp.org/index.php/Sweden">OWASP Sweden</a><br>
+ <a href="https://www.owasp.org/index.php/Sweden">OWASP Sweden</a><br>
  <a href="http://svenskalinuxforeningen.se/">Svenska Linuxföreningen</a>
 </div>
 
 <div class="frontbox">
 SUBTITLE(I media)
 <p>
-  6 Maj 2010: <a href="http://www.internetdagarna.se/track/ip-och-infrastruktur/foss-mote-26-okt">Nätverket foss-sthlm på Internetdagarna 26 okt!</a>
+  6 Maj 2010: <a href="https://www.internetdagarna.se/track/ip-och-infrastruktur/foss-mote-26-okt">Nätverket foss-sthlm på Internetdagarna 26 okt!</a>
 <p>
-  12 jan 2010: <a href="http://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">Träffa andra FOSS-hackers i Stockholm!</a><br>
+  12 jan 2010: <a href="https://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">Träffa andra FOSS-hackers i Stockholm!</a><br>
 <p>
   14 dec 2009: <a href="http://blogg.idg.se/openforce/entry.jsp?messid=13518">Stockholmare och open source:are? Se då hit!</a>
 
@@ -167,10 +168,10 @@ köra en dragning.
  HOTP Toolkit,
  <a href="http://eclipse.org/jgit/">JGit</a>,
  Kamailio,
- <a href="http://www.gnu.org/software/libidn/">Libidn</a>,
- <a href="http://josefsson.org/libntlm/">Libntlm</a>,
+ <a href="https://www.gnu.org/software/libidn/">Libidn</a>,
+ <a href="https://josefsson.org/libntlm/">Libntlm</a>,
  <a href="https://www.libssh2.org/">libssh2</a>,
- <a href="http://www.gnu.org/software/libtasn1/">Libtasn1</a>,
+ <a href="https://www.gnu.org/software/libtasn1/">Libtasn1</a>,
  lsh,
  <a href="http://www.arbetsmyra.dyndns.org/nard/">Nard SDK</a>,
  nettle,
