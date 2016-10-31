@@ -51,6 +51,9 @@ snack över en öl
 <li>
  <a href="https://www.meetup.com/FOSS-Sthlm/events/234150288/">Tr&auml;ff #18</a>, 12 oktober 2016
 
+<li>
+<a href="https://www.meetup.com/FOSS-Sthlm/events/234150288/">FOSS-Sthlm tr&auml;ff #18</a> 
+
 </ol>
 
 BOXBOT
