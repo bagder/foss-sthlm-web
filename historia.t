@@ -50,9 +50,11 @@ snack över en öl
  <a href="rms2016.html">RMS-snack</a> 25:e januari 2016 
 <li>
  <a href="https://www.meetup.com/FOSS-Sthlm/events/234150288/">Tr&auml;ff #18</a>, 12 oktober 2016
-
 <li>
-<a href="https://www.meetup.com/FOSS-Sthlm/events/234150288/">FOSS-Sthlm tr&auml;ff #18</a> 
+ <a href="https://www.meetup.com/FOSS-Sthlm/events/239995726/">#19</a>, 20 juni 2017
+<li>
+<a href="https://www.meetup.com/FOSS-Sthlm/events/257619567/">#20</a>: 28 januari 2019
+<li> <a href="https://www.meetup.com/FOSS-Sthlm/events/265447800/">#21</a>: 12 december 2019
 
 </ol>
 
