@@ -157,6 +157,7 @@ köra en dragning.
  <a href="http://www.endrov.net/">Endrov</a>,
  <a href="https://getfedora.org/">Fedora</a>,
  ffmpeg,
+ <a href="https://www.freebsd.org">FreeBSD</a>,
  <a href="http://fribid.se/">fribid</a>,
  <a href="https://git-scm.com/">Git</a>,
  git2cl,
