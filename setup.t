@@ -1,7 +1,7 @@
 #define TITLEPRE <div class=title align=left>
 #define TITLEPOST </div>
 #define TITLE(blurb) TITLEPRE blurb TITLEPOST
-#define SUBTITLE(blurb) <div class=subtitle align=left> blurb </div>
+#define SUBTITLE(blurb) <h2 class=subtitle align=left> blurb </h2>
 
 #if 0
 #define BOXTOP <table width="100%" cellspacing="0" cellpadding="1" bgcolor="#8000ff"><tr><td> \

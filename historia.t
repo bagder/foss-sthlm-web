@@ -56,6 +56,8 @@ snack över en öl
 <a href="https://www.meetup.com/FOSS-Sthlm/events/257619567/">#20</a>: 28 januari 2019
 <li> <a href="https://www.meetup.com/FOSS-Sthlm/events/265447800/">#21</a>: 12 december 2019
 
+<li> våren 2020 ?
+
 </ol>
 
 BOXBOT

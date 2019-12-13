@@ -6,7 +6,7 @@ HEAD(foss-sthlm - FOSS-entusiaster i Stockholm)
 #include "menu.t"
 
 TITLE(Free and Open Source Software - entusiaster i Stockholm)
-#if 1
+#if 0
 <p>
 <div class="alert">
 <b>Kommande evenemang:</b><p>
@@ -14,13 +14,6 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 <p>
 <a href="https://www.meetup.com/FOSS-Sthlm/events/265447800/">FOSS-Sthlm tr&auml;ff #21</a>: 12 december 2019
 
-</div>
-#endif
-
-#if 0
-<div class="alert">
-<p>
-foss-sthlm fyller 3 &aring;r den 7:e december!
 </div>
 #endif
 
@@ -42,48 +35,9 @@ utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. F
 Vi ser gärna att vi får så många olika projekt och grupperingar
 representerade och intresserade!
 
-<p> Vi är över 350 pers på mailinglistan, men se gärna till att
-informera era egna kontakter om vår existens så att vi når ut
-bättre.
+<p> Vi är nästan 400 personer på mailinglistan, men se gärna till att
+informera era egna kontakter om vår existens så att vi når ut bättre.
 
-</div>
-
-#if 0
-<div class="frontbox">
-#include "eventbrite.t"
-</div>
-#endif
-
-<div class="frontbox">
-
-SUBTITLE(Sponsorer)
-<p>
- Följande företag har varit med och sponsrat foss-sthlm-evenemang:
-
-<p>
-<a href="https://www.academicwork.se/">Academic Work</a>,
-<a href="http://www.borderless.se/">Borderless</a>,
-<a href="https://www.cag.se/">CAG</a>,
-<a href="http://www.combitech.se/">Combitech</a>,
-<a href="https://www.dsv.su.se/">DSV</a>,
-<a href="http://www.enea.com/">Enea</a>,
-<a href="https://www.haxx.se/">Haxx</a>,
-<a href="https://www.init.se/">Init</a>,
-<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
-<a href="https://www.msc.se/">MSC</a>,
-<a href="https://www.nohup.se/">Nohup</a>,
-<a href="https://www.iis.se/">.SE</a>,
-<a href="https://www.southpole.se/">South Pole</a>,
-<a href="https://www.spotify.com/">Spotify</a>,
-<a href="https://www.dqc.se/">DQC</a>,
-<a href="https://omegapoint.se/">Omegapoint</a>,
-<a href="http://www.afconsult.com/">&Aring;F</a>
-</div>
-
-<div class="frontbox">
-SUBTITLE(IRC)
-<p>
- Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
 </div>
 
 <div class="frontbox">
@@ -108,6 +62,41 @@ berättar hur vi hanterar namn och email-adresser!
  mailinglistan.
 </div>
 
+<div style="clear: both;"/>
+
+<div class="frontbox">
+
+SUBTITLE(Sponsorer)
+<p>
+ Följande företag har varit med och sponsrat foss-sthlm-evenemang:
+
+<p>
+<a href="https://www.academicwork.se/">Academic Work</a>,
+<a href="http://www.borderless.se/">Borderless</a>,
+<a href="https://www.cag.se/">CAG</a>,
+<a href="http://www.combitech.se/">Combitech</a>,
+<a href="https://www.dsv.su.se/">DSV</a>,
+<a href="http://www.enea.com/">Enea</a>,
+<a href="https://www.haxx.se/">Haxx</a>,
+<a href="https://www.init.se/">Init</a>,
+<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
+<a href="https://www.msc.se/">MSC</a>,
+<a href="https://www.nohup.se/">Nohup</a>,
+<a href="https://www.iis.se/">.SE</a>,
+<a href="https://www.southpole.se/">South Pole</a>,
+<a href="https://www.spotify.com/">Spotify</a>,
+<a href="https://www.dqc.se/">DQC</a>,
+<a href="https://omegapoint.se/">Omegapoint</a>,
+<a href="http://www.afconsult.com/">&Aring;F</a>,
+<a href="https://svt.se/">SVT</a>
+</div>
+
+<div class="frontbox">
+SUBTITLE(IRC)
+<p>
+ Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
+</div>
+
 <div class="frontbox">
 SUBTITLE(I samma anda)
 <p>
@@ -118,6 +107,7 @@ SUBTITLE(I samma anda)
  <a href="http://svenskalinuxforeningen.se/">Svenska Linuxföreningen</a>
 </div>
 
+#if 0
 <div class="frontbox">
 SUBTITLE(I media)
 <p>
@@ -126,9 +116,8 @@ SUBTITLE(I media)
   12 jan 2010: <a href="https://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">Träffa andra FOSS-hackers i Stockholm!</a><br>
 <p>
   14 dec 2009: <a href="http://blogg.idg.se/openforce/entry.jsp?messid=13518">Stockholmare och open source:are? Se då hit!</a>
-
 </div>
-
+#endif
 
 <div class="frontbox">
 
