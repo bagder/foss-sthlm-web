@@ -1,7 +1,7 @@
-ROOT=/sites/foss-sthlm.haxx.se
+ROOT=.
 MAINPARTS= $(ROOT)/doctype.t $(ROOT)/body.t $(ROOT)/footer.t \
 	$(ROOT)/setup.t menu.t $(ROOT)/css.t
-ACTION=@echo preprocessing $@; rm -f $@; /home/dast/bin/cpp -WWW -Uunix -H -I$(ROOT) -C -V -LL $< $@; chmod a-w+r $@
+ACTION=@echo preprocessing $@; rm -f $@; /home/dast/bin/fcpp -WWW -Uunix -H -I$(ROOT) -C -V -LL $< $@; chmod a-w+r $@
 
 all:	index.html mailtop.html mailbot.html indextop.html indexbot.html \
 	mailhead.html talks.html mote1.html mote1-dok.html mote2.html \
