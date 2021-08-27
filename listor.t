@@ -17,7 +17,7 @@ SUBTITLE(foss-sthlm)
 
 <p>
  <a
-href="https://cool.haxx.se/cgi-bin/mailman/listinfo/foss-sthlm">foss-sthlm</a>
+href="https://lists.haxx.se/listinfo/foss-sthlm">foss-sthlm</a>
 är vår huvud-mailinglista. På denna diskuterar vi foss- relaterade
 ämnen mellan himmel och jord. Vi använder även listan till att
 planera evenemang samt att ge feedback på tidigare grejor och erbjuda
