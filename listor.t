@@ -29,6 +29,7 @@ varanda olika intressanta föredrag.
 <p>
  Se <a href="/mail.cgi">foss-sthlms mail-arkiv</a>.
 
+#if 0
 SUBTITLE(foss-sthlm-announce)
 <p>
  <a
@@ -54,5 +55,7 @@ eller mindre direkta annonser från företag som vill ragga folk i
 området. Självklart ska jobben ha åtminstone en relation till FOSS.
 
 BOXBOT
+
+#endif
 
 #include "footer.t"
