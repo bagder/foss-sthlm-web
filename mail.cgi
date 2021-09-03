@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-require "date.pm";
-require "foss.pm";
+require "./date.pm";
+require "./foss.pm";
 require CGI;
 
 $req = new CGI;
