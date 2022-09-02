@@ -94,7 +94,7 @@ SUBTITLE(Sponsorer)
 <div class="frontbox">
 SUBTITLE(IRC)
 <p>
- Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
+ Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på Libera.
 </div>
 
 <div class="frontbox">
